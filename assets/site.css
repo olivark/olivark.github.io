@@ -1,0 +1,84 @@
+html {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  color: #1f2933;
+  background: #f7f5f2;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  color: #0f5c4d;
+}
+
+a:hover {
+  color: #0a4036;
+}
+
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.site-header {
+  background: #fffdf9;
+  border-bottom: 1px solid #ded6cb;
+}
+
+.site-header .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.site-title {
+  color: #1f2933;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+.content {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+.post-meta {
+  color: #52606d;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+pre,
+code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  background: #f0ebe5;
+  border-radius: 8px;
+}

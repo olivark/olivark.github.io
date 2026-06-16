@@ -1,0 +1,8 @@
+title: Olivier's Blog
+description: Notes, posts, and updates published with Jekyll on GitHub Pages.
+url: "https://olivark.github.io"
+baseurl: ""
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
