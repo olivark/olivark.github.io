@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace }}">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/assets/favicon.svg' | relative_url }}">
+    <meta name="theme-color" content="#0f5c4d">
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
     {% seo %}
     {% feed_meta %}
