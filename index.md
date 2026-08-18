@@ -1,18 +1,17 @@
 ---
 layout: default
 title: Home
+hero: true
+hero_title: "Notes, posts, and updates."
 ---
 
-# Welcome
+## Posts
 
-This site is now set up for blogging with Jekyll on GitHub Pages.
-
-## Latest posts
-
-{% if site.posts.size > 0 %}
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-{% endfor %}
-{% else %}
-No posts yet.
-{% endif %}
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </li>
+  {% endfor %}
+</ul>

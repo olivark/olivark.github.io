@@ -7,7 +7,10 @@
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace }}">
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/assets/favicon.svg' | relative_url }}">
-    <meta name="theme-color" content="#0f5c4d">
+    <meta name="theme-color" content="#0d1117">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
     {% seo %}
     {% feed_meta %}
@@ -22,6 +25,15 @@
         </nav>
       </div>
     </header>
+
+    {% if page.hero %}
+    <div class="hero">
+      <div class="hero-content">
+        <p class="hero-eyebrow">{{ site.title }}</p>
+        <h1 class="hero-heading">{{ page.hero_title | default: site.description }}</h1>
+      </div>
+    </div>
+    {% endif %}
 
     <main class="wrap content">
       {{ content }}

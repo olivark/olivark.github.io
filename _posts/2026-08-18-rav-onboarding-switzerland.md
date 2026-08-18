@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Registering with RAV in Switzerland: What the Onboarding Process Actually Looks Like"
+title: "Registering with RAV in Switzerland: A Practical Zürich Onboarding Guide"
 date: 2026-08-18 00:00:00 +0200
+last_modified_at: 2026-08-18
 categories:
   - Switzerland
   - RAV
@@ -13,620 +14,908 @@ tags:
   - Arbeitslosenkasse
   - Zurich
   - Switzerland
+description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts and preparing for RAV appointments."
 ---
 
-When I first registered with the RAV in Zürich, I found the process a little confusing. There are several steps, quite a few documents, and — importantly — **the RAV and the Arbeitslosenkasse are not the same thing**.
+When I first registered with the RAV in Zürich, I found the process more fragmented than I expected. You deal with the **RAV**, an **Arbeitslosenkasse**, **Job-Room / arbeit.swiss**, several forms, deadlines and your assigned RAV adviser.
 
-After going through the onboarding myself, this is what the process looked like in practice.
+Once you understand which organisation does what, the process becomes much easier to follow.
 
-> **Note:** This is based on my personal experience in the Canton of Zürich in 2026. Requirements and individual instructions can vary, so always follow the instructions you receive from your own RAV and Arbeitslosenkasse.
+This guide describes the onboarding process I went through in the **Canton of Zürich in 2026**, combined with links to the relevant official sources so that you can verify the general rules yourself.
+
+> **Important:** Some parts of the process are federal, while others are cantonal or specific to an individual RAV case. Wherever something in this guide comes from my own experience rather than a general published rule, I say so explicitly. Always follow the instructions sent to you by your own RAV and Arbeitslosenkasse.
+
+---
+
+## Before you start: RAV, Arbeitslosenkasse, Job-Room and SECO are different things
+
+This distinction is probably the most useful thing to understand at the beginning.
+
+### RAV
+
+The **Regionales Arbeitsvermittlungszentrum (RAV)** deals primarily with getting you back into employment:
+
+- registration for public employment services;
+- job-search requirements;
+- counselling with your RAV adviser;
+- reviewing your applications;
+- employment referrals;
+- courses, assessments and other labour-market measures.
+
+### Arbeitslosenkasse
+
+The **Arbeitslosenkasse (ALK)** deals primarily with the financial side of unemployment insurance:
+
+- checking whether you are entitled to unemployment benefits;
+- calculating the amount and duration of your benefits;
+- requesting documents needed for the claim;
+- processing the monthly claim;
+- paying unemployment benefits.
+
+In the Canton of Zürich, you are asked to choose an Arbeitslosenkasse as part of the RAV registration process. The canton currently lists four unemployment funds and states that they provide the same statutory services.
+
+### Job-Room / arbeit.swiss
+
+**Job-Room** is the federal online platform used for job search and many RAV/Arbeitslosenkasse eServices.
+
+An important detail: you can submit the initial **"Anmeldung zur Arbeitsvermittlung (RAV)"** online without already having a Job-Room account. After the RAV has completed your registration, you can register for Job-Room and access the additional eServices.
+
+The main eServices relevant to this guide are:
+
+**RAV eServices**
+- Arbeitsbemühungen
+- Arbeitsunfähigkeit
+- Dokumente für die Stellensuche
+
+**Arbeitslosenkasse eServices**
+- Antrag auf Arbeitslosenentschädigung
+- Angaben der versicherten Person
+
+### SECO
+
+**SECO — the State Secretariat for Economic Affairs (Staatssekretariat für Wirtschaft)** — is the federal supervisory authority for unemployment insurance. The actual decisions in individual cases are made by the responsible RAV, Arbeitslosenkasse and cantonal authorities.
+
+**Official references:**  
+[arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
+[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[Kanton Zürich — RAV & Arbeitslosenkasse registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+
+---
 
 ## 1. Register with the RAV
 
-The first step is to register with the RAV through the **arbeit.swiss / Job-Room eService "Anmeldung zur Arbeitsvermittlung (RAV)"**.
+If you have received notice or know that you are going to become unemployed, do not wait until weeks after your employment ends.
 
-You can register while you are still in your notice period and should do so no later than your first day of unemployment.
+In Zürich, the official guidance is to register **during your notice period if possible, and no later than the first day of unemployment**.
 
-During the initial onboarding, I was asked for a fair amount of personal and professional information.
+The online route uses the eService:
 
-I do not remember exactly which questions appeared during the **online registration itself** and which ones were asked later during the **first RAV phone call**, so I would not treat the following as an exact list of fields from arbeit.swiss.
+**Anmeldung zur Arbeitsvermittlung (RAV)**
 
-Across those first steps, I remember being asked about things such as:
+For the initial online registration, Zürich states that you need your **AHV number** and the names exactly as shown on your AHV insurance record.
 
-- my personal details and address;
-- my current or most recent job;
-- my employment situation;
-- the **Pensum** I was looking for;
-- my German level;
-- my previous employment;
-- other information relevant to my unemployment registration.
+You do **not** need to have created a Job-Room account before making this initial RAV registration.
 
-The online registration and subsequent phone call therefore felt more like one combined onboarding process to me, with some information being checked or discussed again later.
+### What information is asked?
 
-### The first phone call from RAV
+During the overall registration/onboarding process, I was asked for a fair amount of personal and professional information.
 
-After submitting my registration, I received a phone call from the RAV.
+I no longer remember exactly which questions appeared in the initial online form and which were subsequently confirmed during the first RAV phone call, so I would not treat the following as an exact list of online fields.
 
-In my case, the call involved going through my situation, checking some of the information and explaining the next steps.
+Across those first steps, I remember discussing information such as:
 
-Quite a few of the same questions came up again during the first in-person appointment.
+- personal and contact details;
+- current or most recent employment;
+- employment situation;
+- the **Pensum** (workload) I was looking for;
+- German-language level;
+- previous employment;
+- other information relevant to the registration.
 
-### Choosing an Arbeitslosenkasse
+The online registration and the subsequent call felt like two parts of the same onboarding process.
 
-One thing that was not initially obvious to me was that you also need an **Arbeitslosenkasse**.
+### Start documenting job-search efforts before unemployment
 
-This is separate from the RAV.
+Another point worth knowing early: your obligation to look for work does not necessarily begin on your first unemployed day.
 
-A simple way of thinking about the difference is:
+Zürich explicitly states that job-search efforts must already begin during the notice period. For fixed-term contracts, the canton states that the search should begin three months before the contract ends.
 
-**RAV → job search, counselling and placement**
+Keep records from the beginning.
 
-**Arbeitslosenkasse → unemployment-benefit entitlement, calculation and payment**
+**Official references:**  
+[Kanton Zürich — Online RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
+[Kanton Zürich — RAV & Arbeitslosenkasse registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)  
+[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
 
-In my case, I chose the **Arbeitslosenkasse Kanton Zürich**, which seemed like the most obvious and straightforward choice for my situation.
+---
 
-There are other unemployment funds you can choose from, so this is not necessarily the right choice for everyone.
+## 2. Expect a validation call from the RAV
 
-I clearly remember discussing the choice during the initial phone call with RAV. I may also have selected something during the online registration, but I honestly do not remember doing so.
+After I submitted the online registration, the RAV called me.
 
-If you are unsure which Arbeitslosenkasse to choose, ask during the registration process or initial phone call.
+For online registrations, Zürich states that the RAV normally calls **within 24 hours after receiving the data** in order to validate the information and complete the registration.
 
-## 2. Read the instructions RAV sends you
+If they cannot reach you by phone, the canton says they will invite you to a registration discussion using the contact method you provided.
 
-After registration, RAV sends you information explaining what you need to do before your first counselling appointment.
+In my case, the call involved:
 
-This is worth actually reading rather than assuming everything will appear automatically in Job-Room.
+- checking my situation;
+- validating information;
+- discussing my job search;
+- explaining the next steps;
+- discussing the Arbeitslosenkasse.
 
-In my case, the instruction document included:
+Some of the same topics later came up again in the first in-person meeting.
 
-- my first RAV appointment;
-- what identification I needed to bring;
-- the mandatory online **Pflichtinformation**;
-- documents that had to be submitted;
-- Job-Room information;
-- other onboarding steps.
+**Official reference:**  
+[Kanton Zürich — Online RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)
 
-This became my checklist for the first few days.
+---
 
-## 3. Complete the mandatory rights-and-obligations module
+## 3. Choose an Arbeitslosenkasse
 
-One of the first tasks was the:
+You also need to choose an **Arbeitslosenkasse**.
+
+This is not the same organisation as the RAV.
+
+In the Canton of Zürich, the official registration page currently lists four unemployment funds. The canton states that all of them provide the same statutory services.
+
+In my case, I chose the **Arbeitslosenkasse Kanton Zürich**, which seemed like the most straightforward choice for my situation.
+
+I clearly remember discussing this during the initial RAV phone call. I may also have selected it somewhere during the online process, but I do not remember that part clearly enough to present it as a definite step.
+
+The important point is simply: **you will need an Arbeitslosenkasse**, and if you are unsure which one to choose, ask during registration.
+
+The Arbeitslosenkasse is the organisation that later determines your entitlement, calculates your benefits and makes the payments.
+
+**Official reference:**  
+[Kanton Zürich — Choice of Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+
+---
+
+## 4. Register for Job-Room after your RAV registration is completed
+
+This is easy to mix up with the first step.
+
+The initial RAV registration is available through the Job-Room infrastructure **without first opening a Job-Room account**.
+
+After the RAV has completed your registration, you can create your Job-Room account and gain access to the other eServices.
+
+Once you have access, Job-Room becomes the easiest place to handle much of the ongoing administration.
+
+**Official references:**  
+[arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
+[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
+
+---
+
+## 5. Read the onboarding instructions you receive
+
+After registration, you will receive instructions from the RAV about what needs to be done before the first counselling meeting.
+
+The exact document and deadlines may vary by RAV and case.
+
+In my case, the onboarding information covered:
+
+- the date and location of my first RAV appointment;
+- which original ID to bring;
+- the mandatory **Pflichtinformation**;
+- documents to submit;
+- Job-Room;
+- the self-assessment;
+- other next steps.
+
+I used that document as my checklist.
+
+This is important because not every instruction is necessarily obvious from the Job-Room interface itself.
+
+---
+
+## 6. Complete the mandatory "Pflichtinformation für Stellensuchende"
+
+One of my first tasks was the online:
 
 **Pflichtinformation für Stellensuchende**
 
-This is a mandatory online module explaining the rules that apply while you are registered with RAV.
+This is the mandatory information module about your rights and obligations while registered with the RAV.
 
-It covers things such as:
+It covers subjects such as:
 
-- your job-search obligations;
-- your rights;
+- job-search obligations;
+- reporting duties;
 - deadlines;
-- what you need to report;
-- what can affect your unemployment benefits;
+- RAV instructions;
+- unemployment benefits;
 - situations that can lead to sanctions.
 
-### There is a short deadline
+At the end, you complete the test and receive a confirmation. Zürich instructs you to submit that confirmation to your responsible RAV adviser.
 
-My RAV instruction document explicitly said:
+### Check the deadline in your own instructions
 
-**"Innerhalb von drei Tagen zu erledigen."**
+My personal RAV onboarding letter stated:
 
-The online module itself also had to be completed within those three days.
+> **"Innerhalb von drei Tagen zu erledigen."**  
+> To be completed within three days.
 
-I do not want to state whether those three days technically started from the online registration or the subsequent RAV phone call, because my document does not make that distinction clear.
+It also explicitly instructed me to work through the module, pass the test and send the confirmation to my adviser.
 
-The practical advice is simply:
+I would **not** generalise the exact start of that three-day period, because my letter did not specify whether it was counted from the online submission, the validation call or receipt of the instructions.
 
-**when you receive your RAV onboarding instructions, check the deadlines immediately.**
+The practical rule is:
 
-Do not leave the Pflichtinformation until the first meeting.
+**read the onboarding letter as soon as you receive it and follow the deadline stated there.**
 
-### What you actually do
+**Official reference:**  
+[Kanton Zürich — Pflichtinformationen für Stellensuchende](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)
 
-You:
+---
 
-1. open the online module;
-2. choose your language;
-3. work through the information;
-4. take the test;
-5. pass it;
-6. send the confirmation to your RAV adviser.
+## 7. Complete the Selbsteinschätzung (SES)
 
-Think of it as the **"rules of the game"** before the actual counselling begins.
-
-## 4. Complete the RAV self-assessment — Selbsteinschätzung (SES)
-
-Another onboarding step I had to complete was the:
+Another onboarding task in Zürich is the:
 
 **Selbsteinschätzung (SES)**
 
-This is a self-assessment designed to prepare you for your job search and for the discussion with your RAV adviser.
+This is a self-assessment intended to prepare both you and your RAV adviser for the first counselling discussion.
 
-It takes roughly **20 minutes** and covers:
+According to the official Zürich SES page, it takes approximately **20 minutes** and covers:
 
-- **Standortbestimmung** — where you currently stand professionally;
-- **Suchbereich** — what kind of job you are looking for;
-- **Suchstrategie** — how you search for jobs;
-- **Bewerbungsdossier** — how complete your application documents are;
-- **Selbstpräsentation** — how confident you feel presenting yourself in interviews.
+- **Standortbestimmung** — where you stand professionally;
+- **Suchbereich** — where and what you are looking for;
+- **Suchstrategie** — how you search for work;
+- **Bewerbungsdossier** — the quality/completeness of your application documents;
+- **Selbstpräsentation** — your confidence and preparation for interviews.
 
-### What you need before starting
+### What you need
 
-You need:
+The Zürich SES instructions ask for:
 
 1. your **eight-digit ALV person number**;
-2. the **name or email address of your RAV adviser**.
+2. the **email address of your responsible RAV adviser**.
 
-The assessment is intended to be completed more or less in one go.
+The result is automatically forwarded to the RAV adviser and is used as a basis for the first counselling meeting. You can also request a copy by email.
 
-### What the assessment asks
+### What kinds of questions are included?
 
-The SES is not a technical exam.
+This is not a technical exam.
 
-It asks you to reflect on things such as:
+It asks you to reflect on matters such as:
 
-- your education;
-- your professional experience;
-- your strengths;
-- what you want to discuss with RAV;
-- the roles you are looking for;
-- where you think you have good employment prospects;
-- whether you are open to temporary, contract or project work;
-- how you currently find jobs;
-- how complete your application dossier is.
+- education and training;
+- professional experience;
+- personal strengths;
+- the type of job you are seeking;
+- where you see employment opportunities;
+- whether you are open to temporary or fixed-term work;
+- how you search for jobs;
+- whether your application documents are complete;
+- how you present yourself in interviews;
+- what you would like to discuss with the RAV.
 
-It also asks about your job-search strategy, for example whether you use:
+The purpose is essentially:
 
-- friends, family and former colleagues;
-- recruiters and employment agencies;
-- internet searches;
-- speculative applications;
-- social media;
-- other channels.
+**What can I do? → What am I looking for? → How am I searching? → What needs attention?**
 
-The idea is essentially:
+**Official reference:**  
+[Kanton Zürich — Selbsteinschätzung (SES)](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)
 
-**What can I do? → What am I looking for? → How am I searching? → What could be improved?**
+---
 
-That then gives your adviser a starting point for the first meeting.
+## 8. Submit the documents requested by the RAV
 
-## 5. Upload the first set of documents
+The RAV and the Arbeitslosenkasse do not necessarily ask for the same documents.
 
-Next comes documentation.
+For my initial RAV onboarding, I was asked to provide documents such as:
 
-For the **RAV**, I was asked to provide things such as:
-
-- AHV information;
+- AHV / health-insurance card information;
 - employment contract;
 - termination letter;
 - current CV;
-- employment references;
+- employment references (**Arbeitszeugnisse**);
 - diplomas and certificates;
-- a sample application or cover letter;
-- confirmation that I completed the Pflichtinformation;
-- proof of job-search efforts I had already made before becoming unemployed.
+- a sample application / cover letter;
+- confirmation of the Pflichtinformation;
+- proof of job-search efforts from before unemployment.
 
-Job-Room becomes the central place for much of this administration.
+The exact list in your case can differ, so use the checklist sent by your RAV.
 
-## 6. The Arbeitslosenkasse may ask for additional documents
+For online users, Job-Room provides eServices for **documents for the job search** and **Arbeitsbemühungen**.
 
-Just when I thought I had uploaded everything, the **Arbeitslosenkasse** asked for more.
+If you register in person rather than online, Zürich publishes a separate list of documents to bring to the registration.
 
-This is where understanding the distinction between RAV and Arbeitslosenkasse becomes useful.
+**Official references:**  
+[Kanton Zürich — Personal RAV registration and required documents](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/anmelden-beim-rav.html)  
+[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
 
-In my case, the Arbeitslosenkasse subsequently requested:
+---
 
-- **13 months of payslips — Lohnabrechnungen**;
-- an **Arbeitgeberbescheinigung — Employer Certificate** completed by my previous employer.
+## 9. Complete the "Antrag auf Arbeitslosenentschädigung" in Job-Room
 
-The Arbeitgeberbescheinigung is not something you complete yourself.
-
-You send it to your previous employer, who completes and signs it, and you then forward it to the Arbeitslosenkasse.
-
-So even if your RAV documentation looks complete, do not be surprised if the Arbeitslosenkasse separately requests more documents.
-
-## 7. Complete the "Antrag auf Arbeitslosenentschädigung" in Job-Room
-
-Job-Room includes a dedicated section for the:
+Once you have Job-Room access, one of the Arbeitslosenkasse eServices is:
 
 **Antrag auf Arbeitslosenentschädigung**
 
-![Job-Room: Antrag auf Arbeitslosenentschädigung navigation](/assets/rav-antrag-nav.png)
+![Job-Room: Antrag auf Arbeitslosenentschädigung navigation](/assets/rav-antrag-nav.png){: .post-screenshot}
 
-This is your actual application for unemployment compensation.
+This is your initial application for unemployment compensation.
 
-It is not some separate form that randomly appears in the post.
+It is separate from your RAV job-search records even though both are accessible through Job-Room.
 
-The application contains sections covering things such as:
+In my Job-Room application, the sections included:
 
-**Persönliche Angaben → Angaben Kinder → Sozialversicherungen → Letztes Arbeitsverhältnis → Arbeitsverhältnis → Kündigung → Lohnanspruch → Beteiligung → Aktuelle Erwerbstätigkeiten → Beendete Erwerbstätigkeiten → Verhinderungsgründe → Ereignisse → Übermittlung**
+- Persönliche Angaben
+- Angaben Kinder
+- Sozialversicherungen
+- Letztes Arbeitsverhältnis
+- Arbeitsverhältnis
+- Kündigung
+- Lohnanspruch
+- Beteiligung
+- Aktuelle Erwerbstätigkeiten
+- Beendete Erwerbstätigkeiten
+- Verhinderungsgründe
+- Ereignisse
+- Übermittlung
 
-So set aside some time for it.
+The current official paper version of the same application also shows how detailed the claim is and explicitly instructs applicants to answer the questions completely.
 
-### Check every field before submitting
+### Check the fields carefully before submission
 
-This is one form where I would be very careful before pressing **Submit**.
+In my experience, after I submitted the online application I could no longer simply reopen it and change the answers myself.
 
-In my experience, once I submitted the application, I could no longer simply go back and edit the form myself.
+For that reason, I would check:
 
-Make sure:
+- employment dates;
+- workload;
+- termination information;
+- salary-related information;
+- current and previous work;
+- social-insurance information;
+- all other applicable answers
 
-- all applicable fields are completed;
-- dates are correct;
-- employment information is correct;
-- termination information is correct;
-- salary and workload information are correct;
-- relevant information has not been omitted.
+before pressing **Submit**.
 
-The point is simple: **do not knowingly enter incorrect or incomplete information**.
+You are required to give truthful and complete information to the unemployment-insurance authorities. False or incomplete information can lead to sanctions and, depending on the circumstances, legal consequences.
 
-If you do not know an answer, check your documents or ask.
+This does **not** mean that an innocent typo automatically becomes a criminal offence. The point is to answer truthfully, completely and carefully.
 
-### Missing documents are different: use "Später nachreichen"
+### Missing documents are different from missing answers
 
-A missing attachment is different from missing information in the form.
-
-If you do not yet have a supporting document, Job-Room can give you the option:
+The online application allowed me to choose:
 
 **Später nachreichen**  
-→ *submit later*
+(*submit later*)
 
-Do not overlook this.
+for supporting documents I did not yet have.
 
-For example, you might still be waiting for:
+That meant I could:
 
-- an Arbeitgeberbescheinigung;
-- a payslip;
-- another document from your previous employer.
+1. complete and check the actual form;
+2. mark a missing attachment as **Später nachreichen**;
+3. submit the application;
+4. upload the missing document later under **Meine Dokumente**.
 
-The process is essentially:
+This was useful while I was waiting for employer documents.
 
-1. Complete and check all form fields.
-2. Select **Später nachreichen** for genuinely unavailable supporting documents.
-3. Submit the application.
-4. Upload those documents later under **Meine Dokumente**.
+I am describing the exact Job-Room behaviour I encountered. If your interface differs, follow the options shown in your own claim.
 
-The useful distinction is:
+The broader official rule is that the Arbeitslosenkasse needs the required information and documentation before it can complete the assessment and payment.
 
-**Missing/incorrect form information → fix before submission**
+**Official references:**  
+[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)  
+[Current "Antrag auf Arbeitslosenentschädigung" PDF](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/ea81c4a0-5685-4d2d-a30e-a01d1433ee64.pdf)
 
-**Missing attachment → "Später nachreichen" → upload later in "Meine Dokumente"**
+---
 
-## 8. Complete the monthly "Angaben der versicherten Person" in Job-Room
+## 10. Expect the Arbeitslosenkasse to request additional documents
 
-There is another section called:
+Submitting documents to the RAV does not necessarily mean that the Arbeitslosenkasse already has everything it needs.
+
+The Arbeitslosenkasse may contact you separately for additional evidence.
+
+### What my Arbeitslosenkasse requested
+
+In my case, the Arbeitslosenkasse Kanton Zürich requested:
+
+- **the last 13 months of payslips (Lohnabrechnungen)**;
+- an **Arbeitgeberbescheinigung** completed by my previous employer.
+
+The 13-month request was specific to my claim. **Do not assume that every claimant will be asked for exactly 13 months.**
+
+This distinction matters because the current official **Arbeitgeberbescheinigung** itself instructs the employer to attach **payslips or payroll journals for the previous 24 months**. That employer-side requirement is different from the 13-month request that my Arbeitslosenkasse sent directly to me.
+
+Follow the document request that your own Arbeitslosenkasse sends you.
+
+### The Arbeitgeberbescheinigung is completed by the employer
+
+The **Arbeitgeberbescheinigung** is an employer certificate.
+
+You do not fill it in on behalf of your previous employer.
+
+The current official form says that the employer must provide the certificate to the employee on request **within one week after the end of the employment relationship**.
+
+If you are still waiting for it, contact your previous employer/HR rather than uploading a blank form as if it were completed.
+
+**Official references:**  
+[arbeit.swiss — Current forms page](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[Current Arbeitgeberbescheinigung PDF (10006d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/05/30/c660bdfa-eabf-4898-a9c3-a8cb9fa6b9fa.pdf)
+
+---
+
+## 11. Complete the monthly "Angaben der versicherten Person" (AvP)
+
+Job-Room also contains the Arbeitslosenkasse eService:
 
 **Angaben der versicherten Person (AvP)**
 
-![Job-Room: Angaben der versicherten Person navigation](/assets/rav-avp-nav.png)
+![Job-Room: Angaben der versicherten Person navigation](/assets/rav-avp-nav.png){: .post-screenshot}
 
-Unlike the Antrag auf Arbeitslosenentschädigung, this is a **recurring monthly form**.
+This is different from the initial **Antrag auf Arbeitslosenentschädigung**.
 
-In Job-Room, it is much shorter and contains sections such as:
+The initial application establishes your claim. The AvP is used **every month** to report what happened during that month and to claim the corresponding unemployment benefits.
 
-**Beschäftigungen → Arbeitsunfähigkeit → Abwesenheiten → Weitere Angaben → Anhänge → Übermittlung**
+In my Job-Room account, the AvP contained sections such as:
 
-Each month you confirm what happened during that month, for example whether you:
+- Beschäftigungen
+- Arbeitsunfähigkeit
+- Abwesenheiten
+- Weitere Angaben
+- Anhänge
+- Übermittlung
+
+Typical questions concern whether you:
 
 - worked;
 - earned income;
-- were sick;
+- were unable to work;
 - were absent;
 - received another social-insurance benefit;
 - remained unemployed;
-- experienced another relevant change.
+- had another change relevant to the claim.
 
-In my case, Job-Room allowed me to prepare the form during the month but indicated that it could only be transmitted **from the 22nd**.
+### When can it be submitted?
 
-So:
+In my Job-Room account, the portal stated that the AvP could be prepared earlier but transmitted **from the 22nd of the relevant month**.
 
-**Antrag auf Arbeitslosenentschädigung**  
-→ initial unemployment-benefit application
+I would treat that as the rule displayed by my online portal rather than a universal date that I can independently confirm for every Job-Room case.
 
-**Angaben der versicherten Person**  
-→ monthly information for the ongoing claim
+The general official guidance says:
 
-For me, completing the AvP directly through **Job-Room** is the easiest option because it is transmitted electronically through the system.
+- Job-Room is the preferred way to complete the AvP;
+- people without Job-Room receive the paper form monthly;
+- the paper form normally arrives between approximately the **20th and 25th** of the month in Zürich;
+- if a paper form has not arrived by the 25th, the claimant should contact the Arbeitslosenkasse;
+- claims that are not asserted within **three months** expire.
 
-## 9. Communication with RAV — and IncaMail
+So follow the availability and deadline shown in your own Job-Room account or the instructions from your Arbeitslosenkasse.
 
-One thing that confused me initially was the way RAV emails arrive.
+**Official references:**  
+[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[arbeit.swiss — FAQ on unemployment compensation](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)  
+[Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
 
-Some RAV communication is sent through **IncaMail**, the encrypted email service operated by Swiss Post.
+---
 
-So do not be surprised if an email from RAV does not look like a normal Gmail or Outlook message.
+## 12. Communication with the RAV and IncaMail
 
-You may receive an IncaMail notification and then have to open the protected message.
+Some of my RAV communication arrived through **IncaMail**, the secure email service operated by Swiss Post.
 
-### Do I also have to send everything through IncaMail?
+Swiss Post describes IncaMail as an encrypted email service and a federally recognised secure delivery platform.
 
-This was something I asked my own adviser.
+So if you receive an IncaMail notification rather than a conventional email containing the full message, that is not unusual.
 
-She explained to me that **RAV employees have to use the secure system for certain communications**, but that I, as the job seeker, could still email her directly from my normal personal email account — Gmail, for example.
+### Do you have to send your own replies through IncaMail?
 
-That was useful because I initially thought every email I sent back also had to go through IncaMail.
+I specifically asked my adviser about this.
 
-I am mentioning this specifically as **what my adviser told me for our communication**, rather than claiming it is a universal technical rule for every RAV office.
+She told me that RAV employees have to use the secure system for certain communications, while I could still write to her from my normal personal email account, such as Gmail.
 
-For anything particularly sensitive, follow whatever secure submission method your RAV or Arbeitslosenkasse specifically asks you to use.
+I have **not found a public Zürich rule stating that this applies identically to every RAV communication**, so I treat this as guidance from my own adviser rather than a universal rule.
 
-## 10. Your first in-person meeting with your RAV adviser
+For sensitive documents or whenever the RAV/Arbeitslosenkasse specifies a particular channel, use the method they instruct you to use.
 
-Then comes your first proper meeting with your assigned adviser.
+**Official reference for IncaMail itself:**  
+[Swiss Post — IncaMail help](https://www.post.ch/geschaeftsloesungen/e-mail-verschluesselung/support/onlinehilfe)
 
-In my case, this was partly a repetition of the initial phone call, but in considerably more detail.
+---
 
-We went through:
+## 13. The first in-person meeting with your RAV adviser
 
-- my previous employment;
-- why it ended;
-- the jobs I was looking for;
-- my target Pensum;
-- my German level;
-- previous job applications;
+The first counselling meeting was much more detailed than the initial validation call.
+
+In my case, we discussed:
+
+- previous employment;
+- why the job ended;
+- the type of jobs I was looking for;
+- target Pensum;
+- German level;
+- previous applications;
 - Job-Room;
-- proof of my job-search efforts;
+- proof of job-search efforts;
 - the SES self-assessment;
 - missing documents;
 - how RAV and Arbeitslosenkasse work;
-- what I needed to submit every month;
-- the next steps.
+- monthly obligations;
+- next appointments;
+- possible courses and assessments.
 
-The meeting was essentially:
+It was essentially a combination of:
 
-**administrative onboarding + job-search review + clarification of rules + agreeing what happens next**
+**job-search review + administrative onboarding + clarification of obligations + planning the next steps**
 
 ### What to bring
 
-You do **not** necessarily have to arrive carrying your entire employment file.
+Follow the invitation you receive.
 
-My official invitation specifically required an original:
+My own Zürich invitation required an original:
 
-- **Ausländerausweis / residence permit**, or
+- **Ausländerausweis / residence permit**, **or**
 - **Swiss driving licence**
 
-for identification.
+for identity verification.
 
-I had both with me and my adviser asked to see both.
+I happened to have both with me and my adviser asked to see both.
 
-She also mentioned that there had apparently been cases where somebody else attended on a person's behalf, including during the COVID period. I am mentioning that only as something she told me.
+This specific ID instruction came from **my personal appointment letter**, not from a general public rule that I would apply to every RAV appointment.
 
-So:
+The public Zürich page for an in-person RAV registration separately lists identity documents and other registration documents. Your first counselling appointment may have different requirements, so the invitation is the source of truth for that meeting.
 
-**check your invitation and bring the original identification requested.**
+### If your German is limited, arrange translation assistance
 
-### If your German is limited, arrange translation help
+Zürich explicitly states that people who do not speak German well should attend **all RAV appointments with translation assistance**.
 
-If your German is not good enough to follow the meeting properly, arrange someone who can translate.
+The canton also states that another person may accompany you when translation is required.
 
-Do not assume RAV will automatically provide an interpreter.
+My adviser told me that this could be someone helping me translate rather than a translator supplied by the RAV.
 
-The person helping you can potentially be:
+If you expect to rely on English or another language with the adviser, I would confirm that in advance rather than assuming it.
 
-- a friend;
-- a family member;
-- another person who speaks German well enough to help.
+**Official references:**  
+[Kanton Zürich — Online RAV registration / first meeting](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
+[Kanton Zürich — Personal RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/anmelden-beim-rav.html)
 
-You might have an adviser who speaks good English or your native language, but I would not assume that in advance.
+---
 
-### They may actually inspect the jobs you applied for
+## 14. Your adviser may review the actual jobs you apply for
 
-My adviser looked at some of my individual applications.
+Do not assume that the RAV looks only at the number of applications.
 
-For example, she noticed that I had applied outside Switzerland and asked why.
+Zürich's public guidance says that applications must be both **sufficient in quantity and appropriate in quality**, and that you and your adviser determine the kinds of positions and application methods that make sense for your search.
 
-I explained that I was also open to **remote and contract opportunities**.
+In my own meeting, my adviser looked at individual applications.
 
-That showed me that RAV does not necessarily look only at the number of applications.
+For example, she noticed that I had applied for a role outside Switzerland and asked why. I explained that I was also open to remote and contract opportunities.
 
-They can also look at:
+Your adviser may therefore discuss:
 
-- what jobs you apply for;
-- where they are;
-- whether the workload fits your agreed search;
-- whether the jobs make sense for your profile;
-- whether your applications fit the strategy discussed with your adviser.
+- the roles you are targeting;
+- location;
+- Pensum;
+- whether the job fits your experience;
+- your application method;
+- how the applications fit the agreed search strategy.
 
-## 11. Training, assessments and other RAV assignments
+**Official reference:**  
+[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
 
-The first meeting was also where my adviser discussed support options.
+---
 
-In my case, these included:
+## 15. Courses, assessments and other RAV assignments
 
-- an **ICT assessment/coaching programme**;
-- a possible **German assessment**;
-- professional courses or further education;
-- other labour-market measures.
+The RAV can discuss or assign **arbeitsmarktliche Massnahmen (AMM)** intended to improve your chances of returning to employment.
 
-We also arranged the next RAV appointment.
+In my case, the first meeting included discussion of:
 
-### If RAV assigns something, treat it as an obligation
+- an ICT assessment/coaching programme;
+- a German-language assessment;
+- possible professional courses;
+- other training options.
 
-There is an important difference between:
+The specific programme will depend on the person's background and the RAV's assessment.
 
-**"This course might be useful."**
+### A suggestion is not the same as a formal assignment
 
-and
+There is an important difference between discussing a possible course and receiving a formal RAV assignment.
 
-**"You have been assigned to this course/assessment/appointment."**
+If the RAV formally assigns you to a meeting, suitable job, course, assessment or other labour-market measure, you are expected to follow that instruction.
 
-If RAV formally assigns you to:
+The federal unemployment-insurance FAQ states that failing to follow RAV instructions, refusing assigned suitable work, or failing to start or complete an assigned labour-market measure without an excusable reason can result in **Einstelltage**.
 
-- a meeting;
-- assessment;
-- course;
-- coaching programme;
-- labour-market measure;
-- or a job you are instructed to apply for,
+**Einstelltage** are days during which your entitlement to unemployment benefits is temporarily suspended.
 
-you are expected to comply.
+If you cannot attend something for a legitimate reason, contact the RAV promptly rather than simply not attending.
 
-Skipping assigned measures or failing to follow RAV instructions without an acceptable reason can result in **Einstelltage** — days during which unemployment benefits are suspended.
+**Official references:**  
+[arbeit.swiss — Labour-market measures](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)  
+[arbeit.swiss — FAQ: obligations and Einstelltage](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
 
-If you genuinely cannot attend, contact your adviser beforehand rather than simply not showing up.
+---
 
-The same applies to counselling appointments: they are not optional.
+## 16. Record and submit your monthly "Persönliche Arbeitsbemühungen"
 
-## 12. Your monthly job-search proof
-
-While registered with RAV, you have to document your:
+While registered with the RAV, you must document your job-search efforts:
 
 **Persönliche Arbeitsbemühungen**
 
-These are your job-search efforts.
+### How many applications?
 
-The deadline is generally:
+Zürich's general guidance currently states that **10–12 Arbeitsbemühungen per month** are normally expected **unless something different has been agreed with your RAV adviser**.
 
-**the 5th of the following month**
+That is an important qualification.
 
-So:
+Your individual monthly target is the one agreed or instructed in your own case.
 
-**August applications → by 5 September**
+The canton also expects efforts to be distributed across the month rather than all completed at the last moment.
 
-### Job-Room is easiest
+### Deadline: the 5th of the following month
 
-You can submit your proof through several channels, including online, email, post or in person.
+Your job-search efforts must be submitted by:
 
-For me, Job-Room is by far the easiest.
+**the 5th day of the following month**
 
-I enter applications there as I go.
+Example:
 
-The information is then available through the system, and a PDF can also be generated.
+**August efforts → by 5 September**
 
-### Save everything — job ads disappear
+The official federal PDF states that efforts submitted after the fifth day of the following month may no longer be considered unless there is an excusable reason.
 
-Do **not** rely only on the URL of the vacancy.
+### Job-Room is the easiest option for me
 
-Save:
+Zürich provides several submission routes:
 
-- the job ad as PDF or screenshot;
+- online;
+- email;
+- post;
+- in person.
+
+If you record your Arbeitsbemühungen through the arbeit.swiss / Job-Room eService, Zürich states that they are **automatically transmitted to the RAV from the 5th to the 6th of the following month**. You do not need to send the same form separately.
+
+You can also export the month's entries as a PDF.
+
+**Official references:**  
+[Kanton Zürich — Submit personal job-search efforts](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)  
+[Current "Nachweis der persönlichen Arbeitsbemühungen" PDF (716.007 d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/f7d24607-31a7-49d1-9720-33e95a66b425.pdf)
+
+---
+
+## 17. Save evidence for every application
+
+Do not rely only on a URL.
+
+Job advertisements are removed from company sites and job boards all the time.
+
+Keep your own evidence, such as:
+
+- the vacancy as a PDF or screenshot;
 - application confirmation;
-- emails;
-- the CV/cover letter you sent;
+- emails with the employer or recruiter;
+- the CV and cover letter you sent;
 - interview invitations;
-- rejections.
+- rejection messages.
 
-Why?
+This is not just my personal preference.
 
-Because **job advertisements disappear from websites**.
+Zürich explicitly says that you must retain job advertisements, application letters and rejection letters and be able to produce them if requested. The official federal "Nachweis der persönlichen Arbeitsbemühungen" form similarly says that written evidence must be kept and submitted on request.
 
-My approach is:
+A simple system is:
 
 **Job-Room = official monthly record**
 
-**My own archive = evidence**
+**your own archive = supporting evidence**
+
+**Official references:**  
+[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)  
+[Current "Nachweis der persönlichen Arbeitsbemühungen" PDF](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/f7d24607-31a7-49d1-9720-33e95a66b425.pdf)
+
+---
+
+## 18. Two details my adviser clarified for my own job-search quota
+
+These two points came from **my individual RAV adviser**. I would not present them as universal Swiss rules.
 
 ### Recruiters and headhunters
 
-My adviser also clarified something I would not have known otherwise.
+My adviser explained that if **one recruiter or headhunter presents several vacancies to me**, I should not automatically count every proposed vacancy as a separate qualifying Arbeitsbemühung.
 
-If **one recruiter/headhunter presents several jobs**, I should not automatically count every proposed vacancy as a separate entry toward my monthly quota.
+For my case:
 
-For my case, she told me that this can count as **one recruiter/job-search effort**, rather than five separate entries simply because five vacancies were proposed.
+**one recruiter presenting several opportunities did not automatically equal several quota entries.**
 
-So:
+If recruiters play a major role in your search, ask your own adviser exactly how those efforts should be recorded.
 
-**one recruiter → five proposed vacancies ≠ automatically five qualifying Arbeitsbemühungen**
+### Pensum matters
 
-This was my adviser's interpretation for my case, so ask your own adviser how they want recruiter activity counted.
+My adviser expects my qualifying search efforts to target an **80–100% Pensum**.
 
-### Pensum matters too
+A genuine application for a position below that range may therefore not count toward my agreed monthly quota.
 
-This is also specific to my arrangement.
+Again, this is specific to my arrangement.
 
-My adviser expects me to search within an **80–100% Pensum**.
+Ask your adviser:
 
-If I apply for a 40–60% position, it may be a perfectly genuine application, but it may **not count toward my agreed monthly quota**.
+- what Pensum you are officially searching for;
+- what Pensum range counts toward your quota;
+- how many applications are required;
+- how recruiter/headhunter activity should be recorded.
 
-So clarify:
+---
 
-- your target Pensum;
-- what Pensum range counts;
-- how many applications are expected;
-- how recruiter applications are counted.
+## 19. After onboarding: the recurring monthly routine
 
-## 13. After onboarding: the monthly routine
+Once the initial registration and claim are complete, the process becomes much more repetitive.
 
-Once all the initial paperwork is done, the process becomes much more predictable.
+My checklist is essentially:
 
-My routine is essentially:
-
-1. Apply for the agreed number and type of jobs.
+1. Search and apply for suitable jobs throughout the month.
 2. Record the applications in Job-Room.
-3. Save supporting evidence.
-4. Make sure the **Arbeitsbemühungen** are submitted by the 5th of the following month.
-5. Complete the monthly **Angaben der versicherten Person** for the Arbeitslosenkasse.
-6. Attend RAV appointments, assessments, courses and other assigned measures.
-7. Submit additional documents when requested.
-8. Report relevant changes in my employment situation.
-9. Check RAV emails and IncaMail messages so I do not miss an instruction or deadline.
+3. Save evidence for each application.
+4. Ensure the **Arbeitsbemühungen** are complete by the 5th of the following month.
+5. Complete the monthly **Angaben der versicherten Person (AvP)** for the Arbeitslosenkasse.
+6. Attend RAV counselling appointments.
+7. Attend assigned assessments, courses or labour-market measures.
+8. Submit additional documents when requested.
+9. Report changes that may affect the claim.
+10. Check RAV / Arbeitslosenkasse correspondence and deadlines.
 
-For the recurring administration, Job-Room makes things much easier:
+The recurring split remains:
 
 **Arbeitsbemühungen → RAV**
 
 **Angaben der versicherten Person → Arbeitslosenkasse**
 
-At that point, you are more or less on **autopilot**.
+---
 
-But "autopilot" does not mean ignoring RAV correspondence. Deadlines, appointments and formal instructions still matter.
+## 20. What happens if you do not meet an obligation?
 
-## What I wish I had understood before starting
+Unemployment insurance comes with obligations.
 
-The biggest source of confusion for me was that **RAV registration and claiming unemployment benefits are connected but not identical processes**.
+According to the federal FAQ, your entitlement can be temporarily suspended if, for example, you:
 
-The easiest mental model I found is:
+- do not make sufficient efforts to find suitable work;
+- fail to follow RAV instructions/control requirements;
+- refuse suitable assigned work;
+- fail to start or complete an assigned labour-market measure without an excusable reason;
+- breach reporting/information duties;
+- try to obtain unemployment compensation to which you are not entitled.
+
+The suspension is expressed in **Einstelltage**. The federal FAQ currently states that an individual suspension can range from **1 to 60 days**, depending on the degree of fault.
+
+If something prevents you from complying with an instruction or deadline, contact the relevant RAV or Arbeitslosenkasse rather than assuming it can simply be ignored.
+
+**Official reference:**  
+[arbeit.swiss — FAQ: Einstelltage](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
+
+---
+
+## 21. What if you have a problem with your RAV adviser?
+
+Before registering, I had read a number of negative experiences online, including stories about advisers being condescending or difficult.
+
+Those experiences may be genuine, but they are individual experiences. I would not assume before the first meeting that your own relationship with the RAV will be the same.
+
+There is also an official process if an interpersonal problem genuinely cannot be resolved.
+
+The federal FAQ recommends:
+
+1. first discussing the issue directly with your RAV adviser;
+2. trying to find a solution together;
+3. if that does not work, requesting a change of adviser through the adviser or the RAV management.
+
+The FAQ also describes further complaint options if interpersonal problems persist.
+
+So you are **not necessarily permanently tied to one adviser** if the working relationship genuinely breaks down.
+
+**Official reference:**  
+[arbeit.swiss — FAQ, interpersonal problems with RAV staff](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
+
+---
+
+## 22. The simplest way I now think about the system
 
 ### RAV
 
-**job applications → counselling → job-search requirements → assessments → courses → coaching**
+**job search → counselling → Arbeitsbemühungen → referrals → assessments → courses / labour-market measures**
 
 ### Arbeitslosenkasse
 
-**entitlement → salary information → employer documents → monthly claim → payment**
+**benefit application → entitlement → employer/salary documents → monthly AvP → payment**
 
 ### Job-Room / arbeit.swiss
 
-**registration → documents → Arbeitsbemühungen → unemployment forms**
+**online RAV registration → Job-Room account → RAV eServices → Arbeitslosenkasse eServices → job search**
+
+### SES
+
+**self-assessment to prepare your RAV counselling**
+
+### Pflichtinformation
+
+**mandatory explanation/test covering your rights and obligations**
 
 ### IncaMail
 
-**secure communication for sensitive information**
+**secure encrypted email platform used for sensitive electronic communication**
 
-Then there are additional onboarding steps such as the **Pflichtinformation** and **SES self-assessment**.
+Once that separation is clear, most of the process makes more sense.
 
-The first week can therefore feel surprisingly administrative:
-
-**registration → phone call → instructions → Pflichtinformation → SES → documents → benefit application → first meeting**
-
-Once those initial steps are completed and you understand who is responsible for what, the process becomes much easier to follow.
-
-And one final point: **your own RAV adviser's instructions matter.**
-
-The number of applications, acceptable Pensum, treatment of recruiter opportunities and other details can depend on your individual situation.
-
-At the same time, formally assigned RAV meetings, assessments and labour-market measures should be treated as obligations rather than suggestions.
+---
 
 ## Final thoughts
 
-Hopefully this is useful to anyone going through the same process.
+I hope this helps anyone going through the same process, whether it is your first time registering with the RAV or you are returning to the system after several years.
 
-I have tried to document the things I personally found unclear when starting out. There are enough forms, deadlines and small rules involved that I have probably forgotten something somewhere, but this should give a fairly realistic picture of what the onboarding actually looks like.
+The first days can involve a surprising amount of administration:
 
-Before registering, I had also read plenty of stories online — particularly on Reddit and similar forums — about difficult RAV experiences, condescending advisers or people feeling that their adviser was working against them.
+**RAV registration → validation call → Arbeitslosenkasse choice → Job-Room → instructions → Pflichtinformation → SES → documents → benefit application → first counselling meeting**
 
-Those experiences may very well be genuine, but I would not go into the process assuming that this is necessarily what will happen to you.
+After that, the work becomes much more regular: apply for jobs, keep evidence, maintain Job-Room, submit the monthly information and attend whatever meetings or measures are required.
 
-A lot depends on the adviser, your individual situation and how you communicate with each other.
+The main things I would keep in mind are:
 
-And if the relationship genuinely does not work, you are **not necessarily stuck with that adviser forever**.
+- read every instruction you receive;
+- distinguish the RAV from the Arbeitslosenkasse;
+- use Job-Room where possible;
+- keep copies of everything;
+- do not miss the Arbeitsbemühungen deadline;
+- answer benefit forms carefully and truthfully;
+- ask when a requirement is unclear;
+- follow your own adviser's instructions where your individual case differs from the general guidance.
 
-The sensible first step is to discuss the problem directly. If it cannot be resolved, you can contact RAV management and ask about the possibility of changing adviser.
+I have intentionally separated **general official rules** from details that came from **my own Zürich case**. Procedures, forms and online interfaces can change, so use the official sources below to check the latest version.
 
-My advice would therefore be:
+---
 
-**be prepared, keep good records, read the instructions you receive, respect the deadlines, take formal assignments seriously, ask when something is unclear, and see how the relationship with your adviser develops.**
+## Official sources and useful forms
 
-For me, understanding the actual process removed a lot of the uncertainty.
+The links below were checked when this post was reviewed on **18 August 2026**.
 
-Hopefully this overview does the same for someone else starting their RAV journey.
+> **Tip:** For forms, the official forms index is the safest bookmark because PDF URLs can change when a new version is published. The direct PDF links below point to the versions that were current when this guide was reviewed.
+
+### RAV registration and Job-Room
+
+- [Kanton Zürich — Anmeldung RAV & Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+- [Kanton Zürich — Online beim RAV anmelden](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)
+- [Kanton Zürich — Persönlich beim RAV anmelden](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/anmelden-beim-rav.html)
+- [arbeit.swiss — Anmeldung und Registrierung](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)
+- [Job-Room](https://www.job-room.ch/)
+
+### Pflichtinformation and self-assessment
+
+- [Kanton Zürich — Pflichtinformationen für Stellensuchende](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)
+- [Kanton Zürich — Selbsteinschätzung (SES)](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)
+- [Kanton Zürich — Selbsteinschätzung light (SES light)](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses-light.html)
+
+### Arbeitslosenkasse and unemployment compensation
+
+- [Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
+- [arbeit.swiss — eServices and forms for unemployment compensation](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
+- [arbeit.swiss — FAQ on unemployment compensation](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
+
+### Official forms
+
+- [Current forms index — always check here for the newest versions](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
+- [Antrag auf Arbeitslosenentschädigung — PDF (10000d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/ea81c4a0-5685-4d2d-a30e-a01d1433ee64.pdf)
+- [Arbeitgeberbescheinigung / Employer Certificate — PDF (10006d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/05/30/c660bdfa-eabf-4898-a9c3-a8cb9fa6b9fa.pdf)
+- [Nachweis der persönlichen Arbeitsbemühungen / Proof of job-search efforts — PDF (716.007 d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/f7d24607-31a7-49d1-9720-33e95a66b425.pdf)
+
+### Job-search obligations and RAV counselling
+
+- [Kanton Zürich — Beratung & Vermittlung von Stellensuchenden](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
+- [Kanton Zürich — Persönliche Arbeitsbemühungen einreichen](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)
+- [arbeit.swiss — Beratung und Vermittlung durch das RAV](https://www.arbeit.swiss/de/stellensuchende/beratung-und-vermittlung-durch-das-rav)
+
+### Courses and labour-market measures
+
+- [arbeit.swiss — Arbeitsmarktliche Massnahmen](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)
+- [arbeit.swiss — Massnahmenliste](https://www.arbeit.swiss/de/massnahmenliste)
+
+### Secure email / IncaMail
+
+- [Swiss Post — IncaMail online help](https://www.post.ch/geschaeftsloesungen/e-mail-verschluesselung/support/onlinehilfe)
+- [Swiss Post — IncaMail downloads and recipient instructions](https://www.post.ch/geschaeftsloesungen/e-mail-verschluesselung/support/downloads)
+
+---
+
+*This guide is informational and based partly on personal experience. It is not legal advice. If an instruction from your RAV, Arbeitslosenkasse or an official decision conflicts with this post, follow the official instruction and ask the responsible authority for clarification.*
