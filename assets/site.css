@@ -1,7 +1,6 @@
 /* ── Tokens ──────────────────────────────────────────────── */
 :root {
-  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
-  --font-serif: Georgia, "Times New Roman", serif;
+  --font-sans: "Roboto", system-ui, -apple-system, sans-serif;
   --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 
   --bg: #ffffff;
@@ -25,7 +24,8 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
+  font-synthesis: none;
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
