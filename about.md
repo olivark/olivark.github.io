@@ -4,8 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-# About
-
 Hi, I’m Kévin.
 
 I’m a software engineer with a background in frontend architecture, technical leadership and design-to-code workflows. I’m especially interested in the space between **engineering, product, design and automation** — not just how things are built, but how they can be made simpler, clearer and more useful.
