@@ -289,12 +289,12 @@ Another onboarding task in Zürich is the **Selbsteinschätzung (SES)**, a self-
 
 There are **two versions**:
 
-- **Selbsteinschätzung (SES)** — intended for jobseekers with very good German or English skills;
-- **Selbsteinschätzung light (SES light)** — a simplified version written in easier German.
+- **SES – Ausführliche Version** — the detailed version for people with **good German skills**;
+- **SES Light – Kurze Version** — the shorter version for people with **limited German skills**.
 
-The Canton of Zürich specifically presents the two alternatives as a standard self-assessment for people with very good German or English skills and a version **"in einfachem Deutsch"** for people who need simpler German.
+That is how the choice was presented in the onboarding material I received.
 
-So if your German is limited, do not assume that you have to struggle through the standard German questionnaire. Check whether **SES light** is the more appropriate version for you.
+I completed **SES Light** because it was explicitly described as the version for people with weaker German.
 
 According to the official Zürich SES page, the standard SES takes approximately **20 minutes** and covers:
 
