@@ -2,7 +2,8 @@
 layout: default
 title: Home
 hero: true
-hero_title: "Notes, posts, and updates."
+hero_eyebrow: "Kévin Olivar"
+hero_title: "dad · dev · otaku · geek · nerd"
 ---
 
 ## Posts
