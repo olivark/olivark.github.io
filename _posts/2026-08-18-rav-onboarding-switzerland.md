@@ -34,7 +34,7 @@ This guide describes the onboarding process I went through in the **Canton of Z�
 
 ---
 
-## Before you start: RAV, Arbeitslosenkasse, Job-Room and SECO are different things
+## Before you start: RAV, Arbeitslosenkasse and Job-Room are different things
 
 This distinction is probably the most useful thing to understand at the beginning.
 
@@ -78,9 +78,8 @@ The main eServices relevant to this guide are:
 - Antrag auf Arbeitslosenentschädigung
 - Angaben der versicherten Person
 
-### SECO
-
-**SECO — the State Secretariat for Economic Affairs (Staatssekretariat für Wirtschaft)** — is the federal supervisory authority for unemployment insurance. The actual decisions in individual cases are made by the responsible RAV, Arbeitslosenkasse and cantonal authorities.
+**Where does SECO fit in?**  
+SECO is the federal authority that oversees Switzerland's unemployment-insurance system and is behind the official **arbeit.swiss** information infrastructure. As a jobseeker, however, you normally do not deal with SECO directly during RAV onboarding. In practice, your main contacts are your **RAV**, your **Arbeitslosenkasse**, and, where relevant, the cantonal authorities.
 
 **Official references:**  
 [arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
@@ -575,7 +574,7 @@ Zürich explicitly states that people who do not speak German well should attend
 
 The canton also states that another person may accompany you when translation is required.
 
-My adviser told me that this could be someone helping me translate rather than a translator supplied by the RAV.
+From what I heard from friends who had been through RAV appointments, this could be someone you bring along to help translate rather than a translator supplied by the RAV.
 
 If you expect to rely on English or another language with the adviser, I would confirm that in advance rather than assuming it.
 
