@@ -941,36 +941,6 @@ So you are **not necessarily permanently tied to one adviser** if the working re
 
 ---
 
-## 23. The simplest way I now think about the system
-
-### RAV
-
-**job search → counselling → Arbeitsbemühungen → referrals → assessments → courses / labour-market measures**
-
-### Arbeitslosenkasse
-
-**benefit application → entitlement → employer/salary documents → monthly AvP → payment**
-
-### Job-Room / arbeit.swiss
-
-**online RAV Anmeldung → Job-Room account → RAV eServices → Arbeitslosenkasse eServices → job search**
-
-### SES
-
-**self-assessment to prepare your RAV counselling**
-
-### Pflichtinformation
-
-**mandatory explanation/test covering your rights and obligations**
-
-### IncaMail
-
-**secure encrypted email platform used for sensitive electronic communication**
-
-Once that separation is clear, most of the process makes more sense.
-
----
-
 ## Final thoughts
 
 I hope this helps anyone going through the same process, whether it is your first RAV Anmeldung or you are returning to the system after several years.
