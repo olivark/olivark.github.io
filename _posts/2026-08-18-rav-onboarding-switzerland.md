@@ -287,6 +287,8 @@ In Job-Room, the initial form is:
 
 **Antrag auf Arbeitslosenentschädigung**
 
+![Job-Room: Antrag auf Arbeitslosenentschädigung navigation](/assets/rav-antrag-nav.png){: .post-screenshot}
+
 Complete it carefully. In my case, after submitting it I could no longer simply reopen and edit the answers myself.
 
 ### Missing attachment? That is different from an incomplete answer
@@ -413,6 +415,8 @@ My recurring checklist is:
 The Arbeitslosenkasse form is:
 
 **Angaben der versicherten Person (AvP)**
+
+![Job-Room: Angaben der versicherten Person navigation](/assets/rav-avp-nav.png){: .post-screenshot}
 
 It reports what happened during the month — for example work, income, absence or incapacity — and is used to claim the corresponding unemployment compensation.
 
