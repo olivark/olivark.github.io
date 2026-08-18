@@ -24,8 +24,6 @@ author: Kévin Olivar
 description: "A practical step-by-step guide to RAV onboarding in Zürich: what to do first, what to prepare, Job-Room, the Arbeitslosenkasse, job-search evidence, monthly forms and appointments."
 ---
 
-# Registering with RAV in Switzerland: A Practical Guide Based on My Zürich Experience
-
 When I became unemployed, what I really wanted was a simple answer to four questions:
 
 **What do I do first? What do I need to provide? Where do I submit it? Who do I deal with?**
