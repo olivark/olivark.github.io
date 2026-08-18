@@ -1042,6 +1042,14 @@ I have intentionally separated **general official rules** from details that came
 
 ---
 
+## High-level overview
+
+For a more visual reference, here is a summary of the main onboarding steps:
+
+![RAV Onboarding – My Journey (High-Level Summary)](/assets/rav-onboarding-overview.png){: style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 24px rgba(0,0,0,0.18);"}
+
+---
+
 # Official sources and useful forms
 
 The links below were checked when this post was reviewed on **18 August 2026**.
