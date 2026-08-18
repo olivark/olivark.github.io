@@ -292,9 +292,13 @@ pre code {
   justify-content: center;
   width: 3rem;
   height: 3rem;
+  min-width: 3rem;
+  min-height: 3rem;
+  line-height: 1;
   background: var(--accent);
   color: #fff;
   border-radius: 50%;
+  overflow: hidden;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.28);
   opacity: 0;
   pointer-events: none;
