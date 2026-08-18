@@ -24,6 +24,8 @@ author: Kévin Olivar
 description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts, handling notice periods and preparing for RAV appointments."
 ---
 
+# Registering with RAV in Switzerland: A Practical Guide Based on My Zürich Experience
+
 When I first went through the RAV onboarding process in Zürich, I found it more fragmented than I expected. You deal with the **RAV**, an **Arbeitslosenkasse**, **Job-Room / arbeit.swiss**, several forms, deadlines and your assigned RAV adviser.
 
 Once you understand which organisation does what, the process becomes much easier to follow.
@@ -39,6 +41,35 @@ Switzerland's unemployment-insurance system is based on federal law, and many of
 This guide describes **my experience with the RAV in the Canton of Zürich in 2026**. Details such as the registration process, documents requested, local forms, appointment procedures and instructions from your adviser may be different in another canton.
 
 If you live outside Zürich, use this guide as an explanation of the overall system rather than as an exact checklist. Always check the website and instructions of your own canton and RAV.
+
+---
+
+## Contents
+
+1. [Submit the RAV Anmeldung](#section-1)
+2. [Validation call from the RAV](#section-2)
+3. [Choose an Arbeitslosenkasse](#section-3)
+4. [Create your Job-Room account](#section-4)
+5. [Read the onboarding instructions](#section-5)
+6. [Complete the Pflichtinformation](#section-6)
+7. [Complete the SES / SES Light](#section-7)
+8. [Submit the documents requested by the RAV](#section-8)
+9. [Apply for unemployment compensation](#section-9)
+10. [Additional documents for the Arbeitslosenkasse](#section-10)
+11. [Complete the monthly AvP](#section-11)
+12. [Communication and IncaMail](#section-12)
+13. [First in-person RAV meeting](#section-13)
+14. [How your applications may be reviewed](#section-14)
+15. [Courses, assessments and RAV assignments](#section-15)
+16. [Monthly Arbeitsbemühungen](#section-16)
+17. [Which pre-unemployment months to document](#section-17)
+18. [Save evidence for applications](#section-18)
+19. [Recruiters, headhunters and Pensum](#section-19)
+20. [The recurring monthly routine](#section-20)
+21. [Einstelltage and missed obligations](#section-21)
+22. [Problems with your RAV adviser](#section-22)
+23. [Visual summary](#visual-summary)
+24. [Official sources and useful forms](#official-sources)
 
 ---
 
@@ -105,7 +136,7 @@ As a jobseeker, you normally do not deal with SECO directly. Your practical cont
 
 ---
 
-## 1. Submit the RAV "Anmeldung zur Arbeitsvermittlung"
+## 1. Submit the RAV "Anmeldung zur Arbeitsvermittlung" {#section-1}
 
 If you have received notice or know that you are going to become unemployed, do not wait until weeks after your employment ends.
 
@@ -152,7 +183,7 @@ Keep records from the beginning.
 
 ---
 
-## 2. Expect a validation call from the RAV
+## 2. Expect a validation call from the RAV {#section-2}
 
 After I submitted the online RAV Anmeldung, the RAV called me.
 
@@ -185,7 +216,7 @@ So, in my case, there was a difference between **submitting and processing the R
 
 ---
 
-## 3. Choose an Arbeitslosenkasse
+## 3. Choose an Arbeitslosenkasse {#section-3}
 
 You also need to choose an **Arbeitslosenkasse**.
 
@@ -206,7 +237,7 @@ Choosing the Arbeitslosenkasse does **not** mean that your unemployment compensa
 
 ---
 
-## 4. Create your Job-Room account once access becomes available
+## 4. Create your Job-Room account once access becomes available {#section-4}
 
 This is easy to mix up with the first step.
 
@@ -222,7 +253,7 @@ Once you have access, Job-Room becomes the easiest place to handle much of the o
 
 ---
 
-## 5. Read the onboarding instructions you receive
+## 5. Read the onboarding instructions you receive {#section-5}
 
 During the RAV onboarding process, you will receive instructions about what needs to be done before the first counselling meeting.
 
@@ -257,7 +288,7 @@ The exact document, wording and deadlines may vary by RAV and case, so use the i
 
 ---
 
-## 6. Complete the mandatory "Pflichtinformation für Stellensuchende"
+## 6. Complete the mandatory "Pflichtinformation für Stellensuchende" {#section-6}
 
 One of my first tasks was the online:
 
@@ -296,7 +327,7 @@ The practical rule is:
 
 ---
 
-## 7. Complete the Selbsteinschätzung (SES)
+## 7. Complete the Selbsteinschätzung (SES) {#section-7}
 
 Another onboarding task in Zürich is the **Selbsteinschätzung (SES)**, a self-assessment intended to prepare both you and your RAV adviser for the first counselling discussion.
 
@@ -354,7 +385,7 @@ The purpose is essentially:
 
 ---
 
-## 8. Submit the documents requested by the RAV
+## 8. Submit the documents requested by the RAV {#section-8}
 
 The RAV and the Arbeitslosenkasse do not necessarily ask for the same documents.
 
@@ -382,13 +413,11 @@ If you submit the RAV Anmeldung in person rather than online, Zürich publishes 
 
 ---
 
-## 9. Complete the "Antrag auf Arbeitslosenentschädigung" in Job-Room
+## 9. Complete the "Antrag auf Arbeitslosenentschädigung" in Job-Room {#section-9}
 
 Once you have Job-Room access, one of the Arbeitslosenkasse eServices is:
 
 **Antrag auf Arbeitslosenentschädigung**
-
-![Job-Room: Antrag auf Arbeitslosenentschädigung navigation](/assets/rav-antrag-nav.png){: .post-screenshot}
 
 This is your initial application for unemployment compensation.
 
@@ -461,7 +490,7 @@ The broader official rule is that the Arbeitslosenkasse needs the required infor
 
 ---
 
-## 10. Expect the Arbeitslosenkasse to request additional documents
+## 10. Expect the Arbeitslosenkasse to request additional documents {#section-10}
 
 Submitting documents to the RAV does not necessarily mean that the Arbeitslosenkasse already has everything it needs.
 
@@ -496,13 +525,11 @@ If you are still waiting for it, contact your previous employer/HR rather than u
 
 ---
 
-## 11. Complete the monthly "Angaben der versicherten Person" (AvP)
+## 11. Complete the monthly "Angaben der versicherten Person" (AvP) {#section-11}
 
 Job-Room also contains the Arbeitslosenkasse eService:
 
 **Angaben der versicherten Person (AvP)**
-
-![Job-Room: Angaben der versicherten Person navigation](/assets/rav-avp-nav.png){: .post-screenshot}
 
 This is different from the initial **Antrag auf Arbeitslosenentschädigung**.
 
@@ -550,7 +577,7 @@ So follow the availability and deadline shown in your own Job-Room account or th
 
 ---
 
-## 12. Communication with the RAV and IncaMail
+## 12. Communication with the RAV and IncaMail {#section-12}
 
 Some of my RAV communication arrived through **IncaMail**, the secure email service operated by Swiss Post.
 
@@ -573,7 +600,7 @@ For sensitive documents or whenever the RAV/Arbeitslosenkasse specifies a partic
 
 ---
 
-## 13. The first in-person meeting with your RAV adviser
+## 13. The first in-person meeting with your RAV adviser {#section-13}
 
 The first counselling meeting was much more detailed than the initial validation call.
 
@@ -631,7 +658,7 @@ If you expect to rely on English or another language with the adviser, I would c
 
 ---
 
-## 14. Your adviser may review the actual jobs you apply for
+## 14. Your adviser may review the actual jobs you apply for {#section-14}
 
 Do not assume that the RAV looks only at the number of applications.
 
@@ -655,7 +682,7 @@ Your adviser may therefore discuss:
 
 ---
 
-## 15. Courses, assessments and other RAV assignments
+## 15. Courses, assessments and other RAV assignments {#section-15}
 
 The RAV can discuss or assign **arbeitsmarktliche Massnahmen (AMM)** intended to improve your chances of returning to employment.
 
@@ -686,7 +713,7 @@ If you cannot attend something for a legitimate reason, contact the RAV promptly
 
 ---
 
-## 16. Record and submit your monthly "Persönliche Arbeitsbemühungen"
+## 16. Record and submit your monthly "Persönliche Arbeitsbemühungen" {#section-16}
 
 While registered with the RAV, you must document your job-search efforts:
 
@@ -733,7 +760,7 @@ You can also export the month's entries as a PDF.
 
 ---
 
-## 17. Which pre-unemployment months do you need to document?
+## 17. Which pre-unemployment months do you need to document? {#section-17}
 
 This is one area where it is easy to confuse the **date you received notice**, your **notice period**, your **last actual working day**, and the **legal end of the employment relationship**.
 
@@ -796,7 +823,7 @@ So think of these as two separate questions:
 
 ---
 
-## 18. Save evidence for every application
+## 18. Save evidence for every application {#section-18}
 
 Do not rely only on a URL.
 
@@ -827,7 +854,7 @@ A simple system is:
 
 ---
 
-## 19. Two details my adviser clarified for my own job-search quota
+## 19. Two details my adviser clarified for my own job-search quota {#section-19}
 
 These two points came from **my individual RAV adviser**. I would not present them as universal Swiss rules.
 
@@ -871,7 +898,7 @@ Ask your adviser:
 
 ---
 
-## 20. After onboarding: the recurring monthly routine
+## 20. After onboarding: the recurring monthly routine {#section-20}
 
 Once the initial RAV onboarding is largely complete and your unemployment-benefit claim has been submitted, the process becomes much more repetitive.
 
@@ -896,7 +923,7 @@ The recurring split remains:
 
 ---
 
-## 21. What happens if you do not meet an obligation?
+## 21. What happens if you do not meet an obligation? {#section-21}
 
 Unemployment insurance comes with obligations.
 
@@ -918,7 +945,7 @@ If something prevents you from complying with an instruction or deadline, contac
 
 ---
 
-## 22. What if you have a problem with your RAV adviser?
+## 22. What if you have a problem with your RAV adviser? {#section-22}
 
 Before registering, I had read a number of negative experiences online, including stories about advisers being condescending or difficult.
 
@@ -945,57 +972,11 @@ So you are **not necessarily permanently tied to one adviser** if the working re
 
 I hope this helps anyone going through the same process, whether it is your first RAV Anmeldung or you are returning to the system after several years.
 
-## Visual summary: what the onboarding looked like in my case
+## Visual summary: what the onboarding looked like in my case {#visual-summary}
 
-The sequence below is **my Zürich experience**, not a universal checklist for every canton or every claimant:
+The infographic below is a **high-level summary of my Zürich onboarding experience**. It deliberately groups smaller administrative actions together rather than showing every individual upload, form or follow-up as a separate step.
 
-**1. Complete the online RAV Anmeldung**  
-I submitted the initial **Anmeldung zur Arbeitsvermittlung** online through the arbeit.swiss / Job-Room infrastructure.
-
-**2. Receive the validation call from the RAV hotline**  
-The RAV called me to validate my information, discuss my situation and explain the next steps.
-
-**3. Receive the first important onboarding instructions by IncaMail**  
-This included my adviser details, first appointment information and the onboarding checklist: rights-and-obligations course, online-portal registration, document submission and SES.
-
-**4. Receive the personal number and create the Job-Room account**  
-I received my personal number by phone/email and used it to create my Job-Room account.
-
-**5. Complete the urgent onboarding tasks**  
-I completed the mandatory rights-and-obligations online course, registered for the portal and prepared the SES. My own instructions gave a three-day deadline for the rights-and-obligations course and said the portal registration, documents and SES should be completed as soon as possible and at the latest one day before the first meeting.
-
-**6. Upload the documents requested by the RAV**  
-Once my Job-Room account was available, I uploaded the documents listed in the onboarding instructions.
-
-**7. Complete the SES / SES Light**  
-I completed the self-assessment before the first counselling meeting.
-
-**8. Attend the first in-person meeting with the RAV adviser**  
-This was the detailed counselling/onboarding meeting. In my case, this is also where I received and signed the **paper confirmation of my RAV registration**.
-
-**9. Submit the requested proof of pre-unemployment job-search efforts**  
-I provided the Arbeitsbemühungen requested for the months before unemployment.
-
-**10. Complete the unemployment-benefit application for the Arbeitslosenkasse**  
-Separately from the RAV side, I submitted the **Antrag auf Arbeitslosenentschädigung** through Job-Room.
-
-**11. Respond to requests for missing documents**  
-The Arbeitslosenkasse contacted me separately when supporting documents were still missing.
-
-**12. Contact the previous employer where necessary**  
-I had to request additional employer documents, such as the Arbeitgeberbescheinigung and missing payslips.
-
-**13. Upload the remaining documents**  
-Once I received them, I submitted the missing documents through Job-Room.
-
-**14. Move into the recurring monthly routine**  
-After the onboarding/admin-heavy phase, the process became much more repetitive.
-
-For me, that recurring routine is now essentially:
-
-**apply for the agreed number of suitable jobs at the agreed Pensum → record and retain proof of Arbeitsbemühungen → complete the monthly AvP for the Arbeitslosenkasse → attend RAV appointments and assigned assessments/courses → respond to any new document requests**
-
-That is the point where the process starts to feel less like onboarding and more like a monthly cycle.
+![RAV onboarding in Switzerland — high-level visual summary](/assets/images/rav-onboarding-summary.png)
 
 The main things I would keep in mind are:
 
@@ -1012,15 +993,7 @@ I have intentionally separated **general official rules** from details that came
 
 ---
 
-## High-level overview
-
-For a more visual reference, here is a summary of the main onboarding steps:
-
-![RAV Onboarding – My Journey (High-Level Summary)](/assets/rav-onboarding-overview.png){: style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 24px rgba(0,0,0,0.18);"}
-
----
-
-# Official sources and useful forms
+# Official sources and useful forms {#official-sources}
 
 The links below were checked when this post was reviewed on **18 August 2026**.
 
