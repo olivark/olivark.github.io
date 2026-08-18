@@ -34,7 +34,7 @@ This guide describes the onboarding process I went through in the **Canton of Z�
 
 ## This guide is specifically about Zürich
 
-Switzerland's unemployment-insurance system is based on federal law, and many of the underlying rules are the same across the country. However, the **RAV are organised and operated at cantonal level**, so the practical onboarding process can differ depending on where you live.
+Switzerland's unemployment-insurance system is based on federal law, and many of the underlying rules are the same across the country. However, the **RAV system is organised and operated at cantonal level**, so the practical onboarding process can differ depending on where you live.
 
 This guide describes **my experience with the RAV in the Canton of Zürich in 2026**. Details such as the registration process, documents requested, local forms, appointment procedures and instructions from your adviser may be different in another canton.
 
