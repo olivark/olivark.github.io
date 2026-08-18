@@ -24,8 +24,6 @@ author: Kévin Olivar
 description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts, handling notice periods and preparing for RAV appointments."
 ---
 
-# Registering with RAV in Switzerland: A Practical Guide Based on My Zürich Experience
-
 When I first went through the RAV onboarding process in Zürich, I found it more fragmented than I expected. You deal with the **RAV**, an **Arbeitslosenkasse**, **Job-Room / arbeit.swiss**, several forms, deadlines and your assigned RAV adviser.
 
 Once you understand which organisation does what, the process becomes much easier to follow.
