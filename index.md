@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero: true
-hero_eyebrow: "Kévin Olivar"
+hero_eyebrow: "Hello World"
 hero_title: "dad · dev · otaku · geek · nerd"
 ---
 
