@@ -14,7 +14,7 @@ tags:
   - Arbeitslosenkasse
   - Zurich
   - Switzerland
-description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts and preparing for RAV appointments."
+description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts, handling notice periods and preparing for RAV appointments."
 ---
 
 When I first registered with the RAV in Zürich, I found the process more fragmented than I expected. You deal with the **RAV**, an **Arbeitslosenkasse**, **Job-Room / arbeit.swiss**, several forms, deadlines and your assigned RAV adviser.
@@ -315,7 +315,7 @@ For my initial RAV onboarding, I was asked to provide documents such as:
 - diplomas and certificates;
 - a sample application / cover letter;
 - confirmation of the Pflichtinformation;
-- proof of job-search efforts from before unemployment.
+- proof of the pre-unemployment job-search efforts requested by my RAV.
 
 The exact list in your case can differ, so use the checklist sent by your RAV.
 
@@ -680,7 +680,70 @@ You can also export the month's entries as a PDF.
 
 ---
 
-## 17. Save evidence for every application
+## 17. Which pre-unemployment months do you need to document?
+
+This is one area where it is easy to confuse the **date you received notice**, your **notice period**, your **last actual working day**, and the **legal end of the employment relationship**.
+
+The general Zürich rule is clear: once you receive or give notice, you should start looking for a new job immediately and keep evidence of those efforts. In other words, the obligation to search for work can begin well **before** your first unemployed day.
+
+Separately, during my own onboarding the RAV asked me to provide proof of my **Arbeitsbemühungen for the three months immediately before unemployment**.
+
+### My own timeline
+
+My situation looked like this:
+
+- **termination communicated:** January 2026;
+- **ordinary notice period:** February to April;
+- **last actual working day:** 30 April;
+- **garden leave / Freistellung:** May to July;
+- **legal end of employment:** 31 July;
+- **unemployment:** August.
+
+Because the employment relationship continued during the garden-leave period, the three calendar months immediately before unemployment were:
+
+**May + June + July**
+
+Those were therefore the three months of Arbeitsbemühungen that my RAV asked me to provide during onboarding.
+
+If the employment relationship had instead ended at the end of April, with unemployment beginning in May, the comparable three-month period immediately before unemployment would have been:
+
+**February + March + April**
+
+This is useful because it shows that the **termination date is not necessarily the same as the end of employment**. A termination can be communicated months earlier while the employment relationship continues through the notice period and, in some cases, through a subsequent **Freistellung / garden-leave period**.
+
+When preparing your RAV documents, make sure you can distinguish:
+
+- when the termination was communicated;
+- the contractual/legal notice period;
+- your last day actually worked;
+- any garden-leave / Freistellung period;
+- the legal end date of employment;
+- the date unemployment begins.
+
+Your termination letter, any later agreement with the employer, and your proof of job-search efforts should be consistent with those dates.
+
+### Do not interpret "three months of proof" as "only search for three months"
+
+This distinction is important.
+
+The fact that my RAV requested **three months of proof** during onboarding does **not** mean that the general job-search obligation only begins three months before unemployment.
+
+Zürich's published guidance says that job-search efforts should begin once notice is given or received. If your notice period is longer than three months, you should therefore normally already be searching and documenting your efforts before the three-month window that may later be requested for onboarding.
+
+So think of these as two separate questions:
+
+**When should I start looking for work?**  
+→ As soon as notice has been given/received, according to the Zürich guidance.
+
+**Which previous months does my RAV want me to submit during onboarding?**  
+→ Follow the specific period requested by your own RAV.
+
+**Official reference:**  
+[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
+
+---
+
+## 18. Save evidence for every application
 
 Do not rely only on a URL.
 
@@ -711,7 +774,7 @@ A simple system is:
 
 ---
 
-## 18. Two details my adviser clarified for my own job-search quota
+## 19. Two details my adviser clarified for my own job-search quota
 
 These two points came from **my individual RAV adviser**. I would not present them as universal Swiss rules.
 
@@ -742,7 +805,7 @@ Ask your adviser:
 
 ---
 
-## 19. After onboarding: the recurring monthly routine
+## 20. After onboarding: the recurring monthly routine
 
 Once the initial registration and claim are complete, the process becomes much more repetitive.
 
@@ -767,7 +830,7 @@ The recurring split remains:
 
 ---
 
-## 20. What happens if you do not meet an obligation?
+## 21. What happens if you do not meet an obligation?
 
 Unemployment insurance comes with obligations.
 
@@ -789,7 +852,7 @@ If something prevents you from complying with an instruction or deadline, contac
 
 ---
 
-## 21. What if you have a problem with your RAV adviser?
+## 22. What if you have a problem with your RAV adviser?
 
 Before registering, I had read a number of negative experiences online, including stories about advisers being condescending or difficult.
 
@@ -812,7 +875,7 @@ So you are **not necessarily permanently tied to one adviser** if the working re
 
 ---
 
-## 22. The simplest way I now think about the system
+## 23. The simplest way I now think about the system
 
 ### RAV
 
