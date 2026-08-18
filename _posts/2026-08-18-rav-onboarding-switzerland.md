@@ -154,6 +154,14 @@ In my case, the call involved:
 
 Some of the same topics later came up again in the first in-person meeting.
 
+### When did I actually receive confirmation of my RAV registration?
+
+One detail from my own onboarding is worth clarifying: although the online registration and validation call had already taken place, the **formal confirmation I personally received was handed to me by my RAV adviser during the first in-person meeting**.
+
+It was a paper confirming my registration, and I was asked to sign it there.
+
+So, in my case, there was a difference between **completing the registration steps** and **physically receiving and signing the registration confirmation**. I would not assume that everyone receives this confirmation at exactly the same stage; follow the process and documents given to you by your own RAV.
+
 **Official reference:**  
 [Kanton Zürich — Online RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)
 
