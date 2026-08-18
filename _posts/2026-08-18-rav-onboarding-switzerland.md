@@ -226,21 +226,34 @@ Once you have access, Job-Room becomes the easiest place to handle much of the o
 
 During the RAV onboarding process, you will receive instructions about what needs to be done before the first counselling meeting.
 
-The exact document and deadlines may vary by RAV and case.
+In my case, the first important onboarding message arrived through **IncaMail** after the initial online RAV Anmeldung and the validation call. It contained the practical next steps before I met my assigned adviser in person.
 
-In my case, the onboarding information covered:
+The message included:
 
-- the date and location of my first RAV appointment;
-- which original ID to bring;
-- the mandatory **Pflichtinformation**;
-- documents to submit;
-- Job-Room;
-- the self-assessment;
-- other next steps.
+- a PDF with the detailed onboarding instructions;
+- the date and details of my first RAV appointment;
+- information about who my assigned RAV adviser was;
+- an appointment calendar file;
+- instructions for the mandatory rights-and-obligations online course;
+- instructions to register for the online portal / Job-Room;
+- a list of documents to submit;
+- the self-assessment (**Selbsteinschätzung / SES**);
+- deadlines for completing those tasks.
 
-I used that document as my checklist.
+The checklist in my PDF grouped the main tasks roughly like this:
 
-This is important because not every instruction is necessarily obvious from the Job-Room interface itself.
+- **Rechte und Pflichten verstehen** — complete the web-based online course. My document marked this as urgent and to be completed **within three days**;
+- **Registrierung auf Onlineportal** — register for the web service / online portal;
+- **Dokumente einreichen** — submit the requested documents online, by email or by post;
+- **Selbsteinschätzung durchführen** — complete the online self-assessment questionnaire.
+
+For the online-portal registration, document submission and SES, my instructions said to complete them **as soon as possible and at the latest one day before the first meeting**.
+
+This was an important distinction in my own onboarding: I had already submitted the online RAV Anmeldung and spoken to the RAV hotline, but I had **not yet received the paper confirmation of my RAV registration**. That came later, during the first in-person meeting with my adviser.
+
+I used this IncaMail and its attached PDF as my practical checklist for everything I needed to complete before that appointment.
+
+The exact document, wording and deadlines may vary by RAV and case, so use the instructions sent to you rather than assuming the same checklist applies everywhere.
 
 ---
 
@@ -962,11 +975,57 @@ Once that separation is clear, most of the process makes more sense.
 
 I hope this helps anyone going through the same process, whether it is your first RAV Anmeldung or you are returning to the system after several years.
 
-The first days can involve a surprising amount of administration:
+## Visual summary: what the onboarding looked like in my case
 
-**RAV Anmeldung → validation call → Arbeitslosenkasse choice → Job-Room account → instructions → Pflichtinformation → SES → RAV documents → benefit application to the Arbeitslosenkasse → first counselling meeting**
+The sequence below is **my Zürich experience**, not a universal checklist for every canton or every claimant:
 
-After that, the work becomes much more regular: apply for jobs, keep evidence, maintain Job-Room, submit the monthly information and attend whatever meetings or measures are required.
+**1. Complete the online RAV Anmeldung**  
+I submitted the initial **Anmeldung zur Arbeitsvermittlung** online through the arbeit.swiss / Job-Room infrastructure.
+
+**2. Receive the validation call from the RAV hotline**  
+The RAV called me to validate my information, discuss my situation and explain the next steps.
+
+**3. Receive the first important onboarding instructions by IncaMail**  
+This included my adviser details, first appointment information and the onboarding checklist: rights-and-obligations course, online-portal registration, document submission and SES.
+
+**4. Receive the personal number and create the Job-Room account**  
+I received my personal number by phone/email and used it to create my Job-Room account.
+
+**5. Complete the urgent onboarding tasks**  
+I completed the mandatory rights-and-obligations online course, registered for the portal and prepared the SES. My own instructions gave a three-day deadline for the rights-and-obligations course and said the portal registration, documents and SES should be completed as soon as possible and at the latest one day before the first meeting.
+
+**6. Upload the documents requested by the RAV**  
+Once my Job-Room account was available, I uploaded the documents listed in the onboarding instructions.
+
+**7. Complete the SES / SES Light**  
+I completed the self-assessment before the first counselling meeting.
+
+**8. Attend the first in-person meeting with the RAV adviser**  
+This was the detailed counselling/onboarding meeting. In my case, this is also where I received and signed the **paper confirmation of my RAV registration**.
+
+**9. Submit the requested proof of pre-unemployment job-search efforts**  
+I provided the Arbeitsbemühungen requested for the months before unemployment.
+
+**10. Complete the unemployment-benefit application for the Arbeitslosenkasse**  
+Separately from the RAV side, I submitted the **Antrag auf Arbeitslosenentschädigung** through Job-Room.
+
+**11. Respond to requests for missing documents**  
+The Arbeitslosenkasse contacted me separately when supporting documents were still missing.
+
+**12. Contact the previous employer where necessary**  
+I had to request additional employer documents, such as the Arbeitgeberbescheinigung and missing payslips.
+
+**13. Upload the remaining documents**  
+Once I received them, I submitted the missing documents through Job-Room.
+
+**14. Move into the recurring monthly routine**  
+After the onboarding/admin-heavy phase, the process became much more repetitive.
+
+For me, that recurring routine is now essentially:
+
+**apply for the agreed number of suitable jobs at the agreed Pensum → record and retain proof of Arbeitsbemühungen → complete the monthly AvP for the Arbeitslosenkasse → attend RAV appointments and assigned assessments/courses → respond to any new document requests**
+
+That is the point where the process starts to feel less like onboarding and more like a monthly cycle.
 
 The main things I would keep in mind are:
 
