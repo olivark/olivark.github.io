@@ -78,8 +78,9 @@ The main eServices relevant to this guide are:
 - Antrag auf Arbeitslosenentschädigung
 - Angaben der versicherten Person
 
-**Where does SECO fit in?**  
-SECO is the federal authority that oversees Switzerland's unemployment-insurance system and is behind the official **arbeit.swiss** information infrastructure. As a jobseeker, however, you normally do not deal with SECO directly during RAV onboarding. In practice, your main contacts are your **RAV**, your **Arbeitslosenkasse**, and, where relevant, the cantonal authorities.
+**arbeit.swiss** is the official federal portal for unemployment insurance and public employment services. It sits within the federal system overseen by **SECO — the State Secretariat for Economic Affairs (Staatssekretariat für Wirtschaft)**.
+
+As a jobseeker, you normally do not deal with SECO directly. Your practical contacts are your **RAV**, your **Arbeitslosenkasse**, and, where relevant, the cantonal authorities.
 
 **Official references:**  
 [arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
