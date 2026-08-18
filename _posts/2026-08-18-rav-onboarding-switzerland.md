@@ -13,7 +13,14 @@ tags:
   - arbeit.swiss
   - Arbeitslosenkasse
   - Zurich
+  - Zürich
   - Switzerland
+  - ALV
+  - unemployment insurance Switzerland
+  - expat Switzerland
+  - Stellensuche
+  - Arbeitsvermittlung
+author: Kévin Olivar
 description: "A practical, source-linked guide to registering with RAV in Zürich, choosing an Arbeitslosenkasse, using Job-Room, submitting forms, documenting job-search efforts, handling notice periods and preparing for RAV appointments."
 ---
 
