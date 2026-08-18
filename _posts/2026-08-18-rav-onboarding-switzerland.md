@@ -820,26 +820,39 @@ These two points came from **my individual RAV adviser**. I would not present th
 
 ### Recruiters and headhunters
 
-My adviser explained that if **one recruiter or headhunter presents several vacancies to me**, I should not automatically count every proposed vacancy as a separate qualifying Arbeitsbemühung.
+My adviser explained that RAV is interested in my **own active job-search efforts**.
 
-For my case:
+If a recruiter or headhunter contacts me and then presents several vacancies, I should not automatically count every vacancy as a separate qualifying **Arbeitsbemühung**. In that situation, the recruiter is doing much of the active search and presenting opportunities to me, rather than me carrying out several separate searches or applications myself.
+
+That does not mean recruiter contacts are irrelevant. They can still be part of the job search, but in my case:
 
 **one recruiter presenting several opportunities did not automatically equal several quota entries.**
 
-If recruiters play a major role in your search, ask your own adviser exactly how those efforts should be recorded.
+If recruiters or headhunters are an important part of your search, ask your own adviser how they want those activities recorded.
 
-### Pensum matters
+### Pensum matters — quantity is not the only point
 
 My adviser expects my qualifying search efforts to target an **80–100% Pensum**.
 
-A genuine application for a position below that range may therefore not count toward my agreed monthly quota.
+I asked about this because I had also been applying for some **100% positions** even though I was looking for an **80% role**. My reasoning was practical: applying to a 100% vacancy could increase my chances of getting an interview or entering the hiring process, and I could then ask whether the employer might be open to reducing the workload to 80%.
 
-Again, this is specific to my arrangement.
+My adviser did not want me to rely on that logic for my required quota.
+
+My understanding of her reasoning was that the monthly target is not supposed to become a simple numbers exercise. If I am officially looking for an 80% role, the applications that count toward my quota should also be realistic opportunities that I would actually be prepared to accept under the agreed conditions.
+
+In other words:
+
+**the goal is not just to fill the monthly quota, but to make relevant applications that genuinely match the job search agreed with the RAV.**
+
+From that perspective, repeatedly applying for jobs with a workload I would not actually accept could undermine the purpose of the requirement, even if the vacancies are otherwise relevant.
+
+This was how I understood the discussion in **my own case**, not a general rule I would apply to everyone. If you are open to negotiating a different Pensum after applying, discuss that strategy with your own adviser rather than assuming those applications will count toward your required monthly efforts.
 
 Ask your adviser:
 
 - what Pensum you are officially searching for;
 - what Pensum range counts toward your quota;
+- whether applications outside that range can still count;
 - how many applications are required;
 - how recruiter/headhunter activity should be recorded.
 
