@@ -275,11 +275,20 @@ pre code {
 
 /* ── Screenshot helper ───────────────────────────────────── */
 .post-screenshot {
-  max-width: 320px;
+  max-width: 260px;
   display: block;
   border-radius: 10px;
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
   margin: 1.25rem 0;
+}
+
+.post-summary-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  margin: 1.25rem auto;
 }
 
 /* ── Details / summary ───────────────────────────────────── */
