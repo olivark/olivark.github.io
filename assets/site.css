@@ -282,6 +282,9 @@ pre code {
   margin: 1.25rem 0;
 }
 
+/* ── Details / summary ───────────────────────────────────── */
+details summary { cursor: pointer; }
+
 /* ── Back to top ─────────────────────────────────────────── */
 .back-to-top {
   position: fixed;
