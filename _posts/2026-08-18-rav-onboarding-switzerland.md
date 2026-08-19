@@ -306,6 +306,7 @@ The Arbeitslosenkasse then contacted me separately when it still needed document
 In my case, this included:
 
 - **13 months of payslips**;
+- payslips for any received bonus;
 - an **Arbeitgeberbescheinigung** completed by my previous employer.
 
 The 13-month request was specific to my claim. Follow whatever your own Arbeitslosenkasse asks you for.
