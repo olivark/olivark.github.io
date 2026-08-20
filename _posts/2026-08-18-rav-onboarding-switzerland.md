@@ -66,7 +66,8 @@ That is the process in one paragraph. The rest of this post explains each step o
 10. [A few adviser-specific details from my case](#my-case)
 11. [If something goes wrong](#problems)
 12. [Visual summary](#visual-summary)
-13. [Official sources](#official-sources)
+13. [Portals one will have to deal with](#deal-portals)
+14. [Official sources](#official-sources)
 
 ---
 
@@ -520,6 +521,24 @@ If you are starting now, I would focus on four things:
 - **treat the RAV and Arbeitslosenkasse as two related but separate processes.**
 
 Everything else becomes easier once those four points are clear.
+
+---
+
+# Portals one will have to deal with {#deal-portals}
+
+Apart from the usual LinkedIn, XING and so on, job seekers can use other portals provided by RAV. In my case, as I worked in IT, it was,
+
+- https://www.jobagent.ch
+- https://www.rollen-der-ict.ch/rollen-der-ict
+- https://padlet.com
+
+Of course, don't forget,
+- https://www.job-room-ch
+
+
+**Note:**
+
+If you receive or hear anything related to "profilmatcher", just ignore. This portal is ONLY used by RAV in order to generate coupons. Eg. for jobagent
 
 ---
 
