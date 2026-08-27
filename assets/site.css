@@ -233,6 +233,15 @@ h1, h2, h3, h4 {
   text-underline-offset: 3px;
 }
 
+.about-portrait {
+  display: block;
+  width: min(100%, 300px);
+  height: auto;
+  margin: 0 0 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.14);
+}
+
 blockquote {
   border-left: 3px solid var(--accent);
   margin: 1.75rem 0;
