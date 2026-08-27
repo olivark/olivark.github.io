@@ -202,11 +202,6 @@ a:hover { color: var(--accent-hover); }
   flex: none;
 }
 
-.linkedin-link-label {
-  display: block;
-  line-height: 1;
-}
-
 /* ── Typography ──────────────────────────────────────────── */
 h1, h2, h3, h4 {
   font-family: var(--font-sans);
