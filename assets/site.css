@@ -376,6 +376,7 @@ blockquote strong { color: var(--text); font-style: normal; }
 .contact-form-submit:hover span { transform: translateX(3px); }
 
 .contact-form-trap {
+  display: none !important;
   position: absolute;
   width: 1px;
   height: 1px;

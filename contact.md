@@ -20,9 +20,10 @@ permalink: /contact/
     <input type="hidden" name="_subject" value="New message from olivark.github.io">
     <input type="hidden" name="_next" value="{{ '/contact/thanks/' | absolute_url }}">
 
-    <p class="contact-form-trap" aria-hidden="true">
-      <label>Leave this field empty <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label>
-    </p>
+    <div class="contact-form-trap" aria-hidden="true" hidden>
+      <label for="contact-website">Website</label>
+      <input id="contact-website" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+    </div>
 
     <div class="contact-form-row">
       <p>
