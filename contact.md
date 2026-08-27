@@ -14,6 +14,7 @@ permalink: /contact/
   <div class="contact-panel-heading">
     <h2 id="contact-form-title">Start a conversation</h2>
     <p>Tell me a little about what you have in mind. I’ll get back to you as soon as I can.</p>
+    <p class="contact-required-note"><span aria-hidden="true">*</span> Required fields</p>
   </div>
 
   <form class="contact-form" action="{{ site.contact_form_endpoint }}" method="POST">
@@ -27,22 +28,22 @@ permalink: /contact/
 
     <div class="contact-form-row">
       <div class="contact-field">
-        <label for="contact-name">Name</label>
+        <label for="contact-name">Name <span class="contact-required" aria-hidden="true">*</span><span class="sr-only"> (required)</span></label>
         <input id="contact-name" name="name" type="text" autocomplete="name" required>
       </div>
       <div class="contact-field">
-        <label for="contact-email">Email</label>
+        <label for="contact-email">Email <span class="contact-required" aria-hidden="true">*</span><span class="sr-only"> (required)</span></label>
         <input id="contact-email" name="email" type="email" autocomplete="email" required>
       </div>
     </div>
 
     <div class="contact-field">
-      <label for="contact-subject">Subject</label>
+      <label for="contact-subject">Subject <span class="contact-required" aria-hidden="true">*</span><span class="sr-only"> (required)</span></label>
       <input id="contact-subject" name="subject" type="text" placeholder="What would you like to talk about?" required>
     </div>
 
     <div class="contact-field">
-      <label for="contact-message">Message</label>
+      <label for="contact-message">Message <span class="contact-required" aria-hidden="true">*</span><span class="sr-only"> (required)</span></label>
       <textarea id="contact-message" name="message" rows="7" placeholder="A little context is perfect." required></textarea>
     </div>
 
