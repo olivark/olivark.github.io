@@ -26,25 +26,25 @@ permalink: /contact/
     </div>
 
     <div class="contact-form-row">
-      <p>
+      <div class="contact-field">
         <label for="contact-name">Name</label>
         <input id="contact-name" name="name" type="text" autocomplete="name" required>
-      </p>
-      <p>
+      </div>
+      <div class="contact-field">
         <label for="contact-email">Email</label>
         <input id="contact-email" name="email" type="email" autocomplete="email" required>
-      </p>
+      </div>
     </div>
 
-    <p>
+    <div class="contact-field">
       <label for="contact-subject">Subject</label>
       <input id="contact-subject" name="subject" type="text" placeholder="What would you like to talk about?" required>
-    </p>
+    </div>
 
-    <p>
+    <div class="contact-field">
       <label for="contact-message">Message</label>
       <textarea id="contact-message" name="message" rows="7" placeholder="A little context is perfect." required></textarea>
-    </p>
+    </div>
 
     <button class="contact-form-submit" type="submit">Send message <span aria-hidden="true">→</span></button>
   </form>

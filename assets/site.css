@@ -315,13 +315,17 @@ blockquote strong { color: var(--text); font-style: normal; }
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
+  align-items: start;
 }
 
-.contact-form p { margin: 0 0 1.25rem; }
+.contact-field {
+  display: grid;
+  gap: 0.4rem;
+  margin: 0 0 1.25rem;
+}
 
 .contact-form label {
   display: block;
-  margin-bottom: 0.4rem;
   color: rgba(240, 246, 255, 0.88);
   font-size: 0.875rem;
   font-weight: 700;
