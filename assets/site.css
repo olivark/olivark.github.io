@@ -184,9 +184,11 @@ a:hover { color: var(--accent-hover); }
 }
 
 .linkedin-link {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 0.5rem;
+  width: fit-content;
+  line-height: 1;
   color: rgba(226, 232, 240, 0.72);
   font-size: 0.8125rem;
   font-weight: 500;
@@ -195,7 +197,15 @@ a:hover { color: var(--accent-hover); }
 }
 
 .linkedin-link:hover { color: var(--hero-accent); }
-.linkedin-link svg { flex: none; }
+.linkedin-link svg {
+  display: block;
+  flex: none;
+}
+
+.linkedin-link-label {
+  display: block;
+  line-height: 1;
+}
 
 /* ── Typography ──────────────────────────────────────────── */
 h1, h2, h3, h4 {
