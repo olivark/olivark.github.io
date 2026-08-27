@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero: true
-hero_eyebrow: "Kévin Olivar · Switzerland"
+hero_eyebrow: "dad · dev · geek · otaku · nerd · ai"
 hero_title: "Systems, side projects, and the occasional deep rabbit hole."
 ---
 
