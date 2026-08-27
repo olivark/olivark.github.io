@@ -171,6 +171,32 @@ a:hover { color: var(--accent-hover); }
   padding-bottom: 4.5rem;
 }
 
+/* ── Footer ─────────────────────────────────────────────── */
+.site-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  background: var(--header-bg);
+}
+
+.site-footer .wrap {
+  display: flex;
+  align-items: center;
+  min-height: 4.5rem;
+}
+
+.linkedin-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgba(226, 232, 240, 0.72);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+.linkedin-link:hover { color: var(--hero-accent); }
+.linkedin-link svg { flex: none; }
+
 /* ── Typography ──────────────────────────────────────────── */
 h1, h2, h3, h4 {
   font-family: var(--font-sans);
