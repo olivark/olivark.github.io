@@ -5,6 +5,9 @@ baseurl: ""
 markdown: kramdown
 author:
   name: Kévin Olivar
+# Set this to your Formspree endpoint after creating the free form.
+# Example: https://formspree.io/f/your-form-id
+contact_form_endpoint: "https://formspree.io/f/xnpqalrv"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
