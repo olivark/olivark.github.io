@@ -1,0 +1,9 @@
+<section id="cookie-banner" class="cookie-banner" data-consent-days="{{ site.analytics.consent_days }}" aria-labelledby="cookie-title" hidden data-analytics-id="{% if jekyll.environment == 'production' %}{{ site.analytics.measurement_id }}{% endif %}">
+      <div class="cookie-content">
+        <h2 id="cookie-title">Allow analytics cookies?</h2>
+        <p>I use Google Analytics to understand which articles people read and improve this site. If you accept, Google receives information about your visits and device and stores analytics cookies. You can use the whole site without accepting.</p>
+        <p><a href="{{ '/privacy/' | relative_url }}">Read the privacy notice</a>. Change your choice anytime in Cookie settings.</p>
+        <p id="cookie-current" aria-live="polite"></p>
+        <div class="cookie-actions"><button type="button" id="cookie-reject">Reject analytics</button><button type="button" id="cookie-accept">Accept analytics</button><button type="button" id="cookie-close" hidden>Keep current choice</button></div>
+      </div>
+    </section>

@@ -1,0 +1,22 @@
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Article pages">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}#posts-heading" rel="prev">← Newer</a>
+  {% endif %}
+  {% include page-number.html number=1 %}
+  {% assign last_middle_page = paginator.total_pages | minus: 1 %}
+  {% assign window_start = paginator.page | minus: 2 | at_least: 2 %}
+  {% assign window_end = paginator.page | plus: 2 | at_most: last_middle_page %}
+  {% if window_start > 2 %}<span aria-hidden="true">…</span>{% endif %}
+  {% if window_start <= window_end %}
+    {% for number in (window_start..window_end) %}
+      {% include page-number.html number=number %}
+    {% endfor %}
+  {% endif %}
+  {% if window_end < last_middle_page %}<span aria-hidden="true">…</span>{% endif %}
+  {% include page-number.html number=paginator.total_pages %}
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}#posts-heading" rel="next">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}

@@ -3,15 +3,24 @@
   const status = document.querySelector('#pagination-status');
   if (!list || !window.fetch || !window.history.pushState) return;
   let request;
-  const state = () => ({ ...history.state, articlePagination: true, scrollX: window.scrollX, scrollY: window.scrollY });
+  const state = () => ({
+    ...history.state,
+    articlePagination: true,
+    scrollX: window.scrollX,
+    scrollY: window.scrollY,
+  });
   history.replaceState(state(), '');
   history.scrollRestoration = 'manual';
   // Save position on the active history entry, including scrolling after navigation.
   let frame;
-  window.addEventListener('scroll', () => {
-    cancelAnimationFrame(frame);
-    frame = requestAnimationFrame(() => history.replaceState(state(), ''));
-  }, { passive: true });
+  window.addEventListener(
+    'scroll',
+    () => {
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(() => history.replaceState(state(), ''));
+    },
+    { passive: true },
+  );
   async function navigate(url, { pop = false, position, keyboard = false } = {}) {
     request?.abort();
     const controller = new AbortController();
@@ -24,7 +33,8 @@
       if (!response.ok) throw new Error('Page unavailable');
       const html = new DOMParser().parseFromString(await response.text(), 'text/html');
       const replacement = html.querySelector('#article-list');
-      if (!replacement || !replacement.querySelector('.post-grid')) throw new Error('Invalid article page');
+      if (!replacement || !replacement.querySelector('.post-grid'))
+        throw new Error('Invalid article page');
       if (controller.signal.aborted) return;
       // Keep the space occupied by the previous page, including the shorter last page.
       list.style.minHeight = `${Math.max(list.getBoundingClientRect().height, replacement.getBoundingClientRect().height)}px`;
@@ -32,7 +42,8 @@
       list.dataset.page = replacement.dataset.page;
       document.title = html.title;
       for (const selector of ['link[rel="canonical"]', 'meta[property="og:url"]']) {
-        const old = document.querySelector(selector), fresh = html.querySelector(selector);
+        const old = document.querySelector(selector),
+          fresh = html.querySelector(selector);
         if (old && fresh) old.replaceWith(fresh);
       }
       if (!pop) {
@@ -52,16 +63,28 @@
       if (request === controller) list.removeAttribute('aria-busy');
     }
   }
-  list.addEventListener('click', event => {
+  list.addEventListener('click', (event) => {
     const link = event.target.closest('.pagination a');
-    if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target || link.hasAttribute('download')) return;
+    if (
+      !link ||
+      event.defaultPrevented ||
+      event.button !== 0 ||
+      event.metaKey ||
+      event.ctrlKey ||
+      event.shiftKey ||
+      event.altKey ||
+      link.target ||
+      link.hasAttribute('download')
+    )
+      return;
     const url = new URL(link.href);
     if (url.origin !== location.origin) return;
     event.preventDefault();
     navigate(url.href, { keyboard: event.detail === 0 });
   });
-  window.addEventListener('popstate', event => {
-    if (event.state?.articlePagination) navigate(location.href, { pop: true, position: event.state });
+  window.addEventListener('popstate', (event) => {
+    if (event.state?.articlePagination)
+      navigate(location.href, { pop: true, position: event.state });
     else location.reload();
   });
 })();

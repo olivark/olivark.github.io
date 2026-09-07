@@ -22,4 +22,4 @@ description: "Search articles by Kévin Olivar and browse by topic, tag, or year
   <nav class="pagination" aria-label="Search result pages"><button id="results-prev" hidden>← Previous</button><span id="results-page" hidden></span><button id="results-next" hidden>Next →</button></nav>
   <noscript><p>Search needs JavaScript. You can <a href="{{ '/' | relative_url }}">browse the articles on the homepage</a>.</p></noscript>
 </section>
-<script type="module" src="{{ '/assets/search.js' | relative_url }}"></script>
+{% include script.html file="search.js" module=true %}

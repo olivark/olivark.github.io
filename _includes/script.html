@@ -1,0 +1,2 @@
+{% assign script_path = '/assets/' | append: include.file %}
+<script {% if include.module %}type="module"{% else %}defer{% endif %} src="{{ script_path | relative_url }}?v={{ site.time | date: '%s' }}"></script>

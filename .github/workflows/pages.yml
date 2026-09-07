@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ['main']
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: true
 
 jobs:
@@ -28,25 +28,28 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "4.0"
+          ruby-version: '4.0'
           bundler-cache: true
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: '22'
           cache: npm
 
       - name: Install search dependencies
         run: npm ci
 
-      - name: Build site
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+      - name: Check formatting
+        run: npm run format:check
 
-      - name: Index published articles
-        run: npm run search:index
+      - name: Install test browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Build and test site
+        run: npm test
+        env:
+          SITE_BASEURL: '${{ steps.pages.outputs.base_path }}'
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

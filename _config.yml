@@ -1,15 +1,19 @@
 title: Kevin Olivar
-description: "Software engineering, technical leadership, side projects and Swiss life — by Kévin Olivar."
-url: "https://olivark.github.io"
-baseurl: ""
+description: 'Software engineering, technical leadership, side projects and Swiss life — by Kévin Olivar.'
+url: 'https://kevinolivar.com'
+baseurl: ''
+timezone: Europe/Zurich
+analytics:
+  measurement_id: 'G-LMDYPBRELT'
+  consent_days: 180
 markdown: kramdown
 paginate: 2
-paginate_path: "/page:num/"
+paginate_path: '/page:num/'
 author:
   name: Kévin Olivar
 # Set this to your Formspree endpoint after creating the free form.
 # Example: https://formspree.io/f/your-form-id
-contact_form_endpoint: "https://formspree.io/f/xnpqalrv"
+contact_form_endpoint: 'https://formspree.io/f/xnpqalrv'
 plugins:
   - jekyll-paginate
   - jekyll-feed
@@ -21,3 +25,10 @@ exclude:
   - package-lock.json
   - SEARCH.md
   - gallery-uploads
+  - tests
+  - test-results
+  - playwright-report
+  - playwright.config.cjs
+  - scripts
+  - docs
+  - README.md

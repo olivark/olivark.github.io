@@ -29,37 +29,8 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
   </article>
   {% endfor %}
 </div>
-{% if paginator.total_pages > 1 %}
-<nav class="pagination" aria-label="Article pages">
-  {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path | relative_url }}#posts-heading" rel="prev">← Newer</a>
-  {% endif %}
-  {% assign window_start = paginator.page | minus: 2 %}
-  {% assign window_end = paginator.page | plus: 2 %}
-  {% assign left_gap = window_start | minus: 1 %}
-  {% assign right_gap = window_end | plus: 1 %}
-  {% for number in (1..paginator.total_pages) %}
-    {% if number != 1 and number != paginator.total_pages %}
-      {% if number < window_start or number > window_end %}
-        {% if number == left_gap or number == right_gap %}<span aria-hidden="true">…</span>{% endif %}
-        {% continue %}
-      {% endif %}
-    {% endif %}
-    {% if number == paginator.page %}
-    <span aria-current="page" aria-label="Page {{ number }}">{{ number }}</span>
-    {% elsif number == 1 %}
-    <a href="{{ '/' | relative_url }}#posts-heading" aria-label="Page 1">1</a>
-    {% else %}
-    {% assign pagination_url = site.paginate_path | replace: ':num', number %}
-    <a href="{{ pagination_url | relative_url }}#posts-heading" aria-label="Page {{ number }}">{{ number }}</a>
-    {% endif %}
-  {% endfor %}
-  {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | relative_url }}#posts-heading" rel="next">Older →</a>
-  {% endif %}
-</nav>
-{% endif %}
+{% include pagination.html %}
 </div>
 <p id="pagination-status" class="sr-only" role="status" aria-live="polite"></p>
 </section>
-<script defer src="{{ '/assets/pagination.js' | relative_url }}"></script>
+{% include script.html file="pagination.js" %}

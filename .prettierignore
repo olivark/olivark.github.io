@@ -1,0 +1,9 @@
+_site
+node_modules
+test-results
+playwright-report
+_posts
+*.md
+_layouts
+_includes
+*.html
