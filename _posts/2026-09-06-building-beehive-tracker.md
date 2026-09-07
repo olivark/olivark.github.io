@@ -1,58 +1,32 @@
 ---
 layout: post
-title: "Building BeeHive Tracker: a small app with a lot to teach me"
+title: "Building BeeHive Tracker: making beekeeping records easier"
 date: 2026-09-06
-categories: [projects, web-development]
-tags: [nextjs, react, pwa, indexeddb, beekeeping]
-description: "Building a local-first beekeeping app, keeping its scope small, and learning from the details that make software dependable."
+categories: [projects, design]
+tags: [beekeeping, ux, accessibility, responsive-design]
+description: "Why I'm building BeeHive Tracker: a modern, accessible app focused on simple navigation and easier everyday record keeping for beekeepers."
 ---
 
-I've been working on **BeeHive Tracker**, a small web app for keeping track of apiaries, hives, inspections, feedings, treatments, and harvests.
+The idea for **BeeHive Tracker** started with a conversation with a friend whose mum is a beekeeper. That sparked my interest in the tools beekeepers use to keep track of their hives.
 
-The idea is straightforward: open an apiary, choose a hive, record what happened, and save it. That short sequence has become a useful reference point for the project. Whenever I look at another feature or another screen, I can come back to it and ask whether the app is getting easier to use.
+I then asked some beekeepers which apps they used and tried a few myself. I wanted to understand what was already available and how it felt to use those tools.
 
-I'm building it with Swiss hobby and small-scale beekeepers in mind. That gives the project some concrete constraints: a phone-sized screen, potentially unreliable reception, and more than one language. The interface currently supports English, German, French, and Italian.
+The apps I tried left me wanting a simpler experience. Their interfaces felt dated, navigation was cumbersome, and getting to the task at hand took more effort than I expected. Readability, accessibility, and the overall experience on a phone felt like areas with room for improvement.
 
-## A small workflow with useful details
+That became the motivation for BeeHive Tracker: make keeping beekeeping records as easy as possible.
 
-What interests me about this project is how much there is to think about inside such a small workflow.
+I'm building it with Swiss hobby and small-scale beekeepers in mind. The main journey should be straightforward: open the app, choose an apiary, select a hive, record an inspection or treatment, and save. It should be obvious where to start, what to do next, and where to find a previous record.
 
-An inspection record can include observations about the queen, brood, food stores, population, and health. There are also feeding, treatment, and harvest records. Each entry belongs to a hive, and each hive belongs to an apiary. The structure is easy to describe, but the interface still has to make it easy to find the right place and record something useful without unnecessary typing.
+For me, a modern interface means clear typography, readable contrast, comfortable touch targets, and consistent navigation. The most useful action should be easy to spot. Forms should ask for what matters, use simple selections where they make sense, and keep unnecessary typing to a minimum.
 
-## Keeping records on the device
+Responsive design is central to that. Recording an observation on a phone beside a hive and reviewing its history on a larger screen are different situations. The layout should make good use of each screen, keeping text readable and controls easy to reach. A phone deserves an interface designed for its size and how people use it.
 
-For the implementation, I'm using Next.js with React and TypeScript, Tailwind CSS for styling, and Dexie over IndexedDB for storage. The app is configured as an installable Progressive Web App, with a service worker that caches visited pages and assets for offline use. That still needs testing in the field; local storage alone doesn't guarantee every screen will be available without a connection.
+Accessibility belongs in those decisions from the beginning: clear form labels, visible keyboard focus, meaningful button names, and information that can be understood without relying on colour alone. These are part of making an app comfortable to use. Outdoors, bright sunlight and limited time make clarity especially valuable.
 
-The storage choice is one of the most meaningful parts of the project for me. Beekeeping records live in the browser on the user's device. Saving an inspection doesn't depend on sending it to an application server.
+I'm also trying to keep the scope focused. Apiaries, hives, inspections, feedings, treatments, and harvests give the app plenty to handle already. Every additional screen or field needs to earn its place by helping a beekeeper complete a useful task. A routine entry should feel like a short checklist, with a clear history to return to later.
 
-That also means I need to be clear about what local storage provides. It isn't a cloud backup, and it doesn't automatically move records between devices. Clearing browser data can remove those records. Settings includes a JSON export so users can keep a separate copy, along with a way to delete their local data. There isn't an import screen yet, so that export isn't a complete backup-and-restore workflow.
+The project is still taking shape. These are the principles guiding the work, and the next step is to keep checking them against how beekeepers actually use the app: where they hesitate, what takes too many taps, and what gets in their way.
 
-I like the simplicity of this approach, but it comes with responsibilities that are easy to overlook when the happy path works.
-
-## A small race condition
-
-One of those showed up as a particularly unfriendly error:
-
-```text
-ConstraintError: Key already exists in the object store.
-```
-
-The settings initialization looked harmless: check whether a `default` record exists, and create it if it doesn't. The problem was the gap between those two operations. Two callers could both read an empty result and then both try to insert the same key.
-
-The fix was to put the check and insert inside a read-write transaction. I applied the same protection to default-data seeding and made failed initialization retryable. I also fixed a case where a renamed default medicament could collide with its original ID during seeding.
-
-I added regression tests for concurrent settings reads, preserving renamed records, and rolling back failed seeding. It's a small set of tests, but it covers behavior that matters: opening the app shouldn't produce an error, and initialization shouldn't overwrite something someone has already changed.
-
-## Explaining data handling
-
-I also added Vercel Web Analytics. That prompted a related piece of work: explaining data handling in the app itself. The integration filters apiary and hive IDs, query strings, and fragments out of page-view URLs before sending them. Saved beekeeping records and notes aren't included in those events. There's now a privacy and data handling note in Settings in each supported language.
-
-## Keeping the scope honest
-
-Some features are deliberately still waiting. Reminder and notification functionality remains disabled while the push infrastructure is unfinished. I'd rather let the working parts of the app define its current scope than have the interface promise something it can't yet deliver.
-
-There's more to do, especially around validating how comfortable the main workflow feels on a phone and making the limits of local storage easy to understand. For now, I'm enjoying working on a project where the details have such a direct connection to usefulness. A reliable save, a readable form, and a clear history are satisfying things to get right.
-
-## Try it
+I want BeeHive Tracker to feel familiar quickly, take little effort to navigate, and make it easy to get back to the bees.
 
 You can try [BeeHive Tracker](https://beewatch.vercel.app/).
