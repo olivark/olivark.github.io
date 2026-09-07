@@ -6,17 +6,23 @@ permalink: /about/
 
 <img class="about-portrait" src="{{ '/assets/images/kevin-olivar-portrait.png' | relative_url }}" alt="Kévin Olivar outdoors in a snowy park" width="1254" height="1254">
 
+# About
+
 Hi, I’m Kévin.
 
 I’m a software engineer with a background in frontend architecture, technical leadership and design-to-code workflows.
 
 I’m particularly interested in the space between **engineering, product, design and automation** — how things are built, but also how they can be made simpler, clearer and easier to work with.
 
-I’ve worked in France, Australia and Switzerland, as well as with international teams across Europe and India. Over time, my interests have expanded beyond writing software into **technical direction, mentoring, DesignOps, automation and building small products of my own**.
+Throughout my career, I’ve worked in international environments with people from very different cultures, backgrounds and ways of thinking. That experience has shaped how I communicate, collaborate and approach problems.
 
-This blog is where I write about things I’ve had to figure out along the way: software, building products, Swiss administration, business experiments, and whatever else turns into a much bigger rabbit hole than expected.
+Over time, my interests have expanded beyond writing software into **technical direction, mentoring, DesignOps, automation and building small products of my own**.
 
-Most of what I write is practical. If I spend hours trying to understand a process, form, regulation or technical problem, I usually try to turn what I learned into something that might save someone else some time.
+This blog is where I write about things I’ve had to figure out along the way — sometimes technical, sometimes about work, people, processes, business, or simply navigating everyday systems.
+
+I’m less interested in highly technical deep dives for their own sake. I tend to write about the practical side of things: how people collaborate, how decisions get made, how systems can be improved, and what I learn while trying to make something clearer or easier.
+
+If I spend hours trying to understand something, there is a good chance I’ll turn it into a post that might save someone else some time.
 
 I also have a habit of turning simple questions into small research projects.
 
