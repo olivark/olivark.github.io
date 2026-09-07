@@ -14,3 +14,10 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - SEARCH.md
+  - gallery-uploads

@@ -2,10 +2,20 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post" data-pagefind-body>
   <header class="post-header">
-    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
-    <h1>{{ page.title }}</h1>
+    <p class="post-meta" data-pagefind-ignore>{{ page.date | date: "%B %-d, %Y" }}</p>
+    <h1 data-pagefind-meta="title">{{ page.title }}</h1>
+    <span hidden data-pagefind-ignore data-pagefind-sort="date" data-pagefind-meta="date">{{ page.date | date: "%Y-%m-%d" }}</span>
+    <span hidden data-pagefind-ignore data-pagefind-filter="year">{{ page.date | date: "%Y" }}</span>
+    <span hidden data-pagefind-ignore data-pagefind-meta="description">{{ page.description | default: page.excerpt | strip_html | strip_newlines | escape }}</span>
+    <div class="post-tags" aria-label="Article topics and tags" data-pagefind-ignore>
+      {% assign topic = page.topic | default: 'Notes' %}
+      <a data-pagefind-filter="topic" href="{{ '/articles/' | relative_url }}?topic={{ topic | uri_escape }}">{{ topic | escape }}</a>
+      {% for tag in page.tags %}
+      <a data-pagefind-filter="tag" href="{{ '/articles/' | relative_url }}?tag={{ tag | uri_escape }}">{{ tag | escape }}</a>
+      {% endfor %}
+    </div>
   </header>
   <div class="post-body">
     {{ content }}

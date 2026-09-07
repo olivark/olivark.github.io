@@ -1,5 +1,7 @@
 ---
+tags: [figma, design-systems, developer-tools]
 layout: post
+topic: "Projects"
 title: "I got tired of design tokens playing hide-and-seek, so I made HaKa"
 date: 2026-08-27
 categories: [figma, design-systems, tiny-tools]

@@ -1,10 +1,11 @@
 ---
 layout: post
+topic: "Science & Curiosity"
 title: "ASMR Explained: What It Is, What Science Says, and How to Find What Works for You"
 description: "An introduction to ASMR, its origins, scientific evidence, common triggers, and how to find the ASMR that works for you."
 date: 2026-08-30
 tags:
-  - ASMR
+  - asmr
   - sleep
   - relaxation
   - science

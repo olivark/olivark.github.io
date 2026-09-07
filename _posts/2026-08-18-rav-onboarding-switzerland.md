@@ -1,5 +1,6 @@
 ---
 layout: post
+topic: "Swiss Life"
 title: "Registering with RAV in Switzerland: A Practical Guide Based on My Zürich Experience"
 date: 2026-08-18 00:00:00 +0200
 last_modified_at: 2026-08-18

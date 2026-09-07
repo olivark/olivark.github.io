@@ -1,8 +1,9 @@
 ---
 layout: post
+topic: "Projects"
 title: "I built a tiny place to talk to strangers (what could possibly go wrong?)"
 date: 2026-08-27
-tags: [side-projects, web-development, webRTC, supabase]
+tags: [side-projects, web-development, webrtc, supabase]
 excerpt: "Güggli is an anonymous, interest-led video and text chat experiment. It has no accounts, a Swiss name, and a healthy respect for the Report button."
 ---
 

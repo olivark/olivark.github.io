@@ -1,5 +1,6 @@
 ---
 layout: post
+topic: "Projects"
 title: "Building BeeHive Tracker: making beekeeping records easier"
 date: 2026-09-06
 categories: [projects, design]
