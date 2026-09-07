@@ -13,7 +13,7 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
   </header>
 
 <div class="post-grid">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <article class="post-card">
     <a class="post-card-link" href="{{ post.url | relative_url }}">
       <div class="post-card-meta">
@@ -27,4 +27,24 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
   </article>
   {% endfor %}
 </div>
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Article pages">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}#posts-heading" rel="prev">← Newer</a>
+  {% endif %}
+  {% for number in (1..paginator.total_pages) %}
+    {% if number == paginator.page %}
+    <span aria-current="page" aria-label="Page {{ number }}">{{ number }}</span>
+    {% elsif number == 1 %}
+    <a href="{{ '/' | relative_url }}#posts-heading" aria-label="Page 1">1</a>
+    {% else %}
+    {% assign pagination_url = site.paginate_path | replace: ':num', number %}
+    <a href="{{ pagination_url | relative_url }}#posts-heading" aria-label="Page {{ number }}">{{ number }}</a>
+    {% endif %}
+  {% endfor %}
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}#posts-heading" rel="next">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}
 </section>
