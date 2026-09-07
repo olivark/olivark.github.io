@@ -6,8 +6,6 @@ permalink: /about/
 
 <img class="about-portrait" src="{{ '/assets/images/kevin-olivar-portrait.png' | relative_url }}" alt="Kévin Olivar outdoors in a snowy park" width="1254" height="1254">
 
-# About
-
 Hi, I’m Kévin.
 
 I’m a software engineer with a background in frontend architecture, technical leadership and design-to-code workflows.
