@@ -8,9 +8,13 @@ This website is run by Kévin Olivar. You can [contact me]({{ '/contact/' | rela
 
 ## Optional Google Analytics
 
-I use Google Analytics (measurement ID `{{ site.analytics.measurement_id }}`) to understand how visitors use the site and which articles they read. Analytics is optional. The Google Analytics script only loads after you select **Accept analytics**. Rejecting analytics does not restrict access to the site or article search.
+I use Google Analytics to understand how visitors use the site and which articles they read. Analytics is optional. The Google Analytics script only loads after you select **Accept analytics**. Rejecting analytics does not restrict access to the site or article search.
 
-If you accept, Google receives visit information such as page addresses, referral information, browser and device details, and interaction events. Google Analytics uses cookies, including `_ga` and `_ga_{{ site.analytics.measurement_id | remove_first: 'G-' }}`, to distinguish visits and sessions. This site's configuration limits these cookies to {{ site.analytics.consent_days }} days without refreshing that lifetime and disables Google signals and advertising personalization signals. Google processes the data on its infrastructure, which may be outside Switzerland or the EEA. See [Google’s privacy policy](https://policies.google.com/privacy) and [how Google uses information from partner sites](https://policies.google.com/technologies/partner-sites).
+If you accept analytics, Google may receive information such as the pages you visit, referral information, browser and device details, and interaction events. Google Analytics uses cookies, including `_ga` and related analytics cookies, to distinguish visitors and sessions.
+
+This site's configuration limits analytics cookies to {{ site.analytics.consent_days }} days without refreshing their lifetime and disables Google signals and advertising personalization signals.
+
+Google processes analytics data on its infrastructure, which may include processing outside Switzerland or the EEA. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Your choice
 
