@@ -90,3 +90,15 @@ body { margin: 0; } a { color: inherit; text-decoration: none; }
 .footer-privacy button { background: none; border: 0; padding: .5rem 0; text-decoration: underline; cursor: pointer; min-height: 44px; }
 .cookie-banner :is(a, button):focus-visible, .footer-privacy :is(a, button):focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
 @media (max-width: 680px) { .site-footer .wrap { flex-wrap: wrap; gap: .7rem 1rem; padding-block: 1rem; }.footer-privacy { width: 100%; } }
+
+/* Keep article filters readable on narrow screens and in native browser selects. */
+.search-filters > div { min-width: 0; }
+#article-search input, #article-search select { font-size: 1rem; }
+.search-query input { flex: 1 1 0; }
+.search-query button { flex: 0 0 auto; }
+@media (max-width: 480px) {
+  .search-filters { grid-template-columns: minmax(0, 1fr); }
+  .search-query { flex-wrap: wrap; }
+  .search-query input { flex-basis: 100%; }
+  .search-query button { width: 100%; }
+}

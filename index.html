@@ -13,6 +13,7 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
   </header>
 
 <p class="browse-articles"><a href="{{ '/articles/' | relative_url }}">Search and browse all articles →</a></p>
+<div id="article-list" data-page="{{ paginator.page }}">
 <div class="post-grid">
   {% for post in paginator.posts %}
   <article class="post-card">
@@ -58,4 +59,7 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
   {% endif %}
 </nav>
 {% endif %}
+</div>
+<p id="pagination-status" class="sr-only" role="status" aria-live="polite"></p>
 </section>
+<script defer src="{{ '/assets/pagination.js' | relative_url }}"></script>
