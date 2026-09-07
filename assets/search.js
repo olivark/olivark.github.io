@@ -10,15 +10,26 @@ let engine, facets, page = 1, generation = 0, timer;
 const size = 10;
 function restore() {
   const params = new URLSearchParams(location.search);
-  fields.forEach(key => { form.elements[key].value = params.get(key) || (key === 'sort' ? 'auto' : ''); });
+  fields.forEach(key => { if (key !== 'sort') form.elements[key].value = params.get(key) || ''; });
+  const requested = params.get('sort');
+  form.elements.sort.value = ['relevance', 'newest', 'oldest'].includes(requested) ? requested : (form.elements.q.value.trim() ? 'relevance' : 'newest');
+  syncSort();
   page = Math.max(1, Number.parseInt(params.get('page'), 10) || 1);
 }
 function save(push) {
   const url = new URL(location.href);
   url.search = '';
-  fields.forEach(key => { const value = form.elements[key].value.trim(); if (value && value !== 'auto') url.searchParams.set(key, value); });
+  fields.forEach(key => { const value = form.elements[key].value.trim(); if (value && !(key === 'sort' && value === (form.elements.q.value.trim() ? 'relevance' : 'newest'))) url.searchParams.set(key, value); });
   if (page > 1) url.searchParams.set('page', page);
   if (url.href !== location.href) history[push ? 'pushState' : 'replaceState']({}, '', url);
+}
+let hadQuery = false;
+function syncSort(editing = false) {
+  const hasQuery = Boolean(form.elements.q.value.trim());
+  form.elements.sort.querySelector('[value="relevance"]').disabled = !hasQuery;
+  if (!hasQuery && form.elements.sort.value === 'relevance') form.elements.sort.value = 'newest';
+  if (editing && hasQuery && !hadQuery) form.elements.sort.value = 'relevance';
+  hadQuery = hasQuery;
 }
 function element(tag, text, className) {
   const node = document.createElement(tag); node.textContent = text;
@@ -26,6 +37,7 @@ function element(tag, text, className) {
   return node;
 }
 async function search(push = false) {
+  syncSort();
   const current = ++generation;
   results.setAttribute('aria-busy', 'true');
   status.textContent = 'Searching…';
@@ -37,7 +49,7 @@ async function search(push = false) {
     ['topic', 'tag', 'year'].forEach(key => { if (form.elements[key].value) filters[key] = form.elements[key].value; });
     const options = { filters };
     const sort = form.elements.sort.value;
-    if (sort !== 'auto' || !q) options.sort = { date: sort === 'oldest' ? 'asc' : 'desc' };
+    if (sort !== 'relevance' || !q) options.sort = { date: sort === 'oldest' ? 'asc' : 'desc' };
     const response = await engine.search(q || null, options);
     if (current !== generation) return;
     const pages = Math.max(1, Math.ceil(response.results.length / size));
@@ -75,6 +87,7 @@ async function search(push = false) {
 form.addEventListener('submit', event => { event.preventDefault(); clearTimeout(timer); page = 1; if (engine) search(true); });
 form.addEventListener('input', event => {
   if (event.target.name !== 'q') return;
+  syncSort(true);
   clearTimeout(timer); ++generation;
   timer = setTimeout(() => { page = 1; if (engine) search(false); }, 250);
 });
