@@ -51,6 +51,9 @@ jobs:
         env:
           SITE_BASEURL: '${{ steps.pages.outputs.base_path }}'
 
+      - name: Build search index
+        run: npm run search:index
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
