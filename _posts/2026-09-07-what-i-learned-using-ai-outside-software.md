@@ -388,4 +388,4 @@ And perhaps that is the lesson I will carry back into whatever problem comes nex
 
 ## Note
 
-This article describes a personal learning exercise. It is not legal, regulatory, tax, customs, or food-safety advice.
+This article describes a personal learning exercise. It is not legal, regulatory, tax, customs, or food-safety advice. ;)
