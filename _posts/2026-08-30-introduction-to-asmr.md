@@ -1,340 +1,261 @@
 ---
 layout: post
 topic: "Science & Curiosity"
-title: "ASMR Explained: What It Is, What Science Says, and How to Find What Works for You"
-description: "An introduction to ASMR, its origins, scientific evidence, common triggers, and how to find the ASMR that works for you."
+title: "ASMR Is Weirdly Specific — And That's the Point"
+description: "A small rabbit hole into ASMR, oddly specific triggers, and why finding exactly what you want is harder than it should be."
 date: 2026-08-30
 tags:
   - asmr
   - sleep
   - relaxation
-  - science
+  - curiosity
 ---
 
-# ASMR Explained
+I've been listening to ASMR for quite a while.
 
-ASMR has become one of the internet's largest relaxation genres.
+Nothing particularly ceremonial about it. Sometimes it's playing while I'm doing something else. Sometimes I actually watch. Quite often it's just what I put on when I'm going to sleep.
 
-People use it to relax, fall asleep, focus, or experience the distinctive tingling sensation commonly referred to as **tingles**.
+One of my favorites is [Till You Sleep ASMR](https://www.youtube.com/@TillYouSleepASMR). It's one of those channels I actually come back to instead of watching one random video and disappearing into the recommendation algorithm again.
 
-Yet ASMR can be surprisingly difficult to understand and navigate.
+The funny thing about ASMR, though, is how ridiculously specific it can get.
 
-There are millions of videos covering whispering, tapping, scratching, hair brushing, roleplays, object sounds, eating, personal attention and countless combinations of these.
+Sometimes you don't just want *ASMR*.
 
-So what actually is ASMR? Which triggers work most often? And what does science currently say about it?
+You want a wooden comb.
 
----
+Or scratching, but a particular kind of scratching.
 
-## Why I’m writing about ASMR
+Maybe a face roller.
 
-I’ve been enjoying ASMR for quite some time, mostly as something passive: I can listen while doing something else, watch when I want to relax, or simply put it on when going to sleep.
+Maybe no talking.
 
-Over time, though, I noticed how difficult it can be to find exactly the kind of ASMR I’m looking for. Sometimes I want something very specific — a wooden comb, a face roller, a certain type of scratching or a particular combination of triggers — and the results can be surprisingly inconsistent.
+Maybe slow movements.
 
-There is an enormous amount of ASMR content online, but it often feels scattered and poorly organized.
+Maybe all of those things together.
 
-That is partly why I wanted to put this guide together: to explain what ASMR actually is, look at what science currently says about it, understand which triggers appear to be most common, and bring a little more structure to a category that can otherwise feel chaotic.
+And suddenly YouTube, a website containing what feels like several lifetimes of ASMR, somehow can't quite find what you're looking for.
 
----
-
-## What is ASMR?
-
-**ASMR** stands for **Autonomous Sensory Meridian Response**.
-
-It describes a pleasant sensory response that some people experience when exposed to certain sounds, movements, voices or interpersonal situations.
-
-The characteristic sensation is often described as tingling beginning around the scalp or neck and sometimes travelling down the spine.
-
-However, ASMR is not only about tingles.
-
-Many people experience:
-
-- relaxation
-- calmness
-- sleepiness
-- reduced mental stimulation
-- pleasant sensory focus
-
-Not everyone experiences ASMR, and even among people who do, triggers vary considerably.
+That's what sent me down this little rabbit hole.
 
 ---
 
-## Where did ASMR come from?
+## ASMR is kind of strange when you think about it
 
-People almost certainly experienced ASMR long before the internet gave it a name.
+ASMR stands for **Autonomous Sensory Meridian Response**, which sounds considerably more serious than someone gently scratching a piece of wood next to a microphone.
 
-Common examples include:
+For some people, certain sounds or movements create that familiar tingling sensation around the scalp, neck or spine.
 
-- having your hair brushed
-- listening to someone speak quietly
-- watching someone carefully perform a task
-- hearing repetitive or delicate sounds
-- receiving focused personal attention
+For others, there are no tingles at all. They simply find it relaxing.
 
-Online discussion of the unnamed sensation appeared during the late 2000s.
+And some people feel absolutely nothing.
 
-In **2010**, Jennifer Allen introduced the term **Autonomous Sensory Meridian Response**, giving the growing community a shared name for the experience.
+That's already interesting to me.
 
-Scientific interest followed.
+You can take the exact same video, show it to three people, and get three completely different reactions.
 
-In 2015, researchers Emma Barratt and Nick Davis published one of the first peer-reviewed studies specifically examining ASMR, its triggers and why people watched ASMR content.
+One person is half asleep.
 
-[Read the 2015 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4380153/)
+One has tingles.
 
----
+One is wondering why somebody has been tapping on a bottle for twelve minutes.
 
-## Is ASMR scientifically proven?
-
-There is an important distinction.
-
-**Research supports ASMR as a genuine sensory and emotional phenomenon.**
-
-That does not mean ASMR has been proven as a medical treatment for insomnia, anxiety, depression or other conditions.
-
-The scientific field is still relatively young.
-
-### Measurable physical effects
-
-A notable 2018 study measured participants while they watched ASMR videos.
-
-Among people who experience ASMR, researchers observed:
-
-- increased feelings of calmness
-- increased pleasant affect
-- ASMR tingling sensations
-- an average heart-rate reduction of approximately **3.4 beats per minute**
-- increased skin conductance
-
-The combination is interesting because participants appeared physically relaxed while simultaneously showing signs of sensory activation.
-
-[Read the study in PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196645)
+There isn't really one universal ASMR experience.
 
 ---
 
-## Does ASMR help with relaxation?
+## And yes, apparently it is actually a thing
 
-Research suggests that it can — particularly for people who already experience ASMR.
+There has been real research into ASMR.
 
-Studies comparing ASMR responders and non-responders have found stronger relaxation and positive emotional effects among people susceptible to the phenomenon.
+Scientists have found that people who experience it can show measurable changes while watching ASMR videos, including feeling calmer and having a slightly lower heart rate.
 
-This is important because ASMR does not affect everybody equally.
+So there seems to be something real happening beyond *"I enjoy listening to tiny noises on the internet."*
 
-A video that gives one person intense tingles may do absolutely nothing for someone else.
+That said, I wouldn't turn ASMR into some miracle sleep therapy either.
 
----
+The research is still fairly young, and enjoying ASMR is obviously very different from treating an actual sleep disorder.
 
-## What about sleep?
+I mostly find the science interesting because it confirms something ASMR listeners already know intuitively:
 
-Sleep is one of the most common reasons people consume ASMR.
+**certain sounds and situations can produce surprisingly strong reactions.**
 
-In the original 2015 study, **81% of participants said their preferred time for ASMR was before going to sleep**.
-
-That does not mean ASMR is a clinically proven treatment for insomnia.
-
-It means that sleep and relaxation are major real-world uses of ASMR and that research has identified short-term relaxation effects that may help explain why people find it useful.
-
-Current evidence is better summarized as:
-
-> ASMR can produce measurable relaxation-related effects in susceptible people, but its therapeutic effects are still being studied.
+And those reactions can get very, very specific.
 
 ---
 
-# Which ASMR triggers work best?
+## A trigger isn't really one trigger
 
-ASMR is highly individual, but researchers have found clear patterns.
+Take tapping.
 
-A 2018 study involving **813 people who experience ASMR** asked participants which triggers worked for them.
+Sounds simple.
 
-| Trigger | Participants reporting it as a trigger |
-|---|---:|
-| Soft speaking | **74%** |
-| Hair being played with or brushed | **73%** |
-| Whispering | **70%** |
-| Close personal attention | **65%** |
-| Haircuts | **56%** |
-| Face or head interaction | **55%** |
-| Tapping on hard surfaces | **51%** |
-| Watching someone carefully perform a task | **51%** |
-| Hand movements | **48%** |
-| Scratching | **47%** |
-| Water or fluid sounds | **36%** |
-| Lip sounds | **30%** |
-| Watching or listening to somebody eat | **20%** |
+Except there is wooden tapping, glass tapping, plastic tapping, metal tapping, fingernail tapping, fingertip tapping, slow tapping, fast tapping, aggressive tapping...
 
-Participants responded to an average of approximately **6.8 different triggers**.
+And somehow those aren't interchangeable.
 
-[Read the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6010208/)
+You might love one and immediately skip another.
 
-An earlier study found a similar pattern:
+The same thing happens with scratching.
 
-- Whispering — **75%**
-- Personal attention — **69%**
-- Crisp sounds — **64%**
-- Slow movements — **53%**
-- Repetitive tasks — **34%**
+Or brushing.
 
-This suggests that ASMR is not simply about making quiet noises.
+Or whispering.
 
-Human attention, deliberate movement and carefully performed actions appear to be particularly important.
+Even the object matters.
+
+A hairbrush and a wooden comb are technically doing something similar, but they don't necessarily sound or feel similar at all.
+
+Once you notice this, ASMR stops looking like a collection of broad categories and starts looking more like an enormous collection of tiny sensory combinations.
 
 ---
 
-# The main types of ASMR
+## Then there are the things that barely involve sound
 
-ASMR videos can be grouped into several broad categories.
+This is another part of ASMR I find interesting.
 
-## Voice
+Sometimes the trigger isn't really a *sound*.
 
-Examples include:
+It can be watching someone carefully inspect something.
 
-- whispering
-- soft speaking
-- inaudible whispering
-- reading
-- counting
-- accented speech
+Writing.
 
-For some people, voice is the primary trigger.
+Drawing.
 
----
+Cleaning.
 
-## Object sounds
+Measuring.
 
-Examples include:
+Repairing something.
 
-- tapping
-- scratching
-- brushing
-- rubbing
-- crinkling
-- page turning
+Organizing objects.
 
-The material itself often matters.
+There is even an entire category of **unintentional ASMR**, where the person in the video isn't trying to make ASMR at all.
 
-For example:
+And there is one very famous example that existed long before anyone was using the word ASMR: **Bob Ross**.
 
-- wood
-- glass
-- plastic
-- paper
-- metal
-- fabric
+I initially associated him with the 1970s, probably because everything about the show somehow looks like it belongs there, but *The Joy of Painting* actually started in 1983. Before him, his mentor Bill Alexander had been doing a similar painting show on PBS since 1974.
 
-Someone may strongly prefer wooden tapping while finding glass tapping unpleasant.
+What makes Bob Ross interesting here isn't really the painting.
 
----
+It's the whole thing.
 
-## Personal attention
+The soft voice. The slow brush movements. The scraping and brushing sounds. The complete lack of urgency.
 
-Examples include:
+People watched him to learn how to paint, obviously, but plenty of people also found him incredibly relaxing. Looking back at those videos now, it's difficult *not* to see the resemblance to ASMR.
 
-- haircuts
-- skincare
-- eye examinations
-- cranial nerve examinations
-- measuring
-- makeup application
-- spa roleplays
+No close-up microphone.
 
-The trigger may come partly from the feeling that another person is concentrating specifically on the viewer.
+No trigger list.
 
----
+No title promising sleep in eight minutes.
 
-## Careful tasks
+Just a guy calmly painting mountains and trees.
 
-Some people experience ASMR simply by watching someone work carefully.
+In a way, that is almost the purest version of unintentional ASMR.
 
-Examples include:
+And you still find this kind of thing everywhere.
 
-- writing
-- drawing
-- repairing
-- organizing
-- inspecting
-- cleaning
-- assembling
-- measuring
+Someone might just be quietly demonstrating how something works or carefully repairing an old watch.
 
-In the 2018 study, **51% of participants reported watching someone carefully perform a task as an ASMR trigger**.
+No whispering.
 
-This also explains the popularity of so-called **unintentional ASMR**, where the person creating the sounds is not deliberately making ASMR content.
+No dramatic microphone setup.
+
+No thumbnail promising *EXTREME TINGLES*.
+
+And somehow it works.
+
+Sometimes better.
 
 ---
 
-## Grooming and touch simulations
+## Personal attention is another weird one
 
-Examples include:
+Haircuts.
 
-- hair brushing
-- combing
-- face rollers
-- scalp treatments
-- makeup brushes
-- massage simulations
+Eye examinations.
 
-These often combine visual movement, object sounds and the suggestion of touch.
+Skincare.
 
----
+Spa roleplays.
 
-## Mouth and eating sounds
+Someone pretending to measure your face for reasons that would probably be slightly concerning outside an ASMR video.
 
-Examples include:
+A huge amount of ASMR is built around the feeling that someone is calmly concentrating on *you*.
 
-- chewing
-- lip sounds
-- tongue clicking
-- eating
-- drinking
+Obviously they aren't.
 
-These triggers tend to be more polarizing.
+You're watching a prerecorded YouTube video along with potentially a few million other people.
 
-Research also suggests they are less universally effective than whispering, soft speech and personal attention.
+Your brain apparently doesn't care about that technicality.
+
+Which I find kind of fascinating.
 
 ---
 
-# There is no single "best" ASMR
+## There really isn't a "best ASMR"
 
-Searching for **best ASMR** is usually not very useful.
+This is probably where ASMR recommendations fall apart.
 
-ASMR preferences are closer to a sensory profile.
-
-For example, one person may prefer:
+Someone might love:
 
 > no talking + wooden comb + face roller + slow movements
 
-Another may prefer:
+Someone else wants:
 
-> soft spoken + medical examination + gloves + close microphone
+> soft spoken + medical roleplay + gloves + close microphone
 
-Another:
+Another person wants:
 
-> whispering + writing + paper sounds + binaural audio
+> whispering + writing + paper sounds
 
-The useful question is not:
+Put all three under **ASMR for sleep** and technically you're correct.
 
-> What is the best ASMR?
+But you've also described three completely different videos.
 
-It is:
+That's why searching for *best ASMR* feels a little pointless.
 
-> Which combination of triggers works for me?
+It's more like building a sensory profile.
+
+You gradually figure out:
+
+**this sound: yes.**
+
+**that material: absolutely not.**
+
+**slow: good.**
+
+**fast: skip.**
+
+**whispering: maybe.**
+
+**mouth sounds: please leave.**
+
+Eventually your preferences become weirdly precise.
+
+And that's where the real problem starts.
 
 ---
 
-# ASMR has a search problem
+## ASMR has a search problem
 
-There is an enormous amount of ASMR content available online.
+There is *so much* ASMR online.
 
-But finding something very specific can still be surprisingly difficult.
+Which should mean finding exactly what you want is easy.
 
-Imagine searching for:
+It isn't.
+
+Imagine I want:
 
 > wooden comb + face roller + no talking
 
-The videos may exist, but creators describe their content differently.
+Someone has almost certainly made that video.
 
-One video may call it:
+Probably several people.
 
-> Wood Sounds ASMR
+But one creator might call it:
+
+> Wood Sounds for Sleep
 
 Another:
 
@@ -342,204 +263,253 @@ Another:
 
 Another:
 
-> 20 Triggers for Sleep
+> 20 ASMR Triggers
 
-The exact objects inside the video may not even appear in its title or description.
+The wooden comb might not be mentioned anywhere in the title.
 
-This makes ASMR discovery fragmented.
+The face roller might appear halfway through.
 
----
+"No talking" might be obvious once you watch the video but missing from the description.
 
-## Existing ASMR directories
+YouTube knows an unbelievable amount about videos, but it still mostly asks us to find ASMR through titles, descriptions and whatever creators happen to mention.
 
-Several projects already attempt to organize ASMR content.
+For something this specific, that's surprisingly crude.
 
-### The ASMR Index
+The video exists.
 
-The ASMR Index provides searchable listings of ASMR channels and videos, including filters for triggers, creators, languages and countries.
-
-[Visit The ASMR Index](https://www.theasmrindex.com/)
-
-### AfterASMR
-
-AfterASMR provides discovery tools for finding creators based on characteristics such as language and style.
-
-[Visit AfterASMR](https://afterasmr.com/)
-
-### ASMR Registry
-
-ASMR Registry focuses on structured categorization of ASMR content using attributes such as trigger, intent and duration.
-
-[Visit ASMR Registry](https://asmrregistry.com/)
-
-These are useful resources, but ASMR discovery can still become much more precise.
+You just don't necessarily know how to find it.
 
 ---
 
-# What better ASMR discovery could look like
+## And then there's the attention economy
 
-Instead of searching only by title, imagine filtering ASMR according to the actual sensory components inside each video.
+There's another side of modern ASMR that I personally don't enjoy as much.
 
-### Object
+Some of it has become increasingly sexualized.
 
-- wooden comb
-- face roller
-- hairbrush
-- makeup brush
-- glass bottle
-- gloves
-- paper
-- scissors
+You search for ASMR and sometimes the thumbnail seems less interested in showing you what the trigger is than in showing a woman in very little clothing.
 
-### Action
+Of course, creators can present themselves however they want. That's not really the point.
 
-- tapping
-- scratching
-- brushing
-- rolling
-- tracing
-- rubbing
+What bothers me is when the ASMR itself starts feeling secondary to grabbing attention.
 
-### Voice
+A suggestive thumbnail.
 
-- whisper
-- soft spoken
-- no talking
-- unintelligible
+More revealing clothing.
 
-### Style
+A title that pushes things just a little further.
 
-- personal attention
-- roleplay
-- trigger assortment
-- unintentional
-- repetitive task
+Then another creator does the same thing.
 
-### Speed
+Then everyone is competing for the same click.
 
-- very slow
-- slow
-- medium
-- fast
-- aggressive
+At some point you're not really optimizing for *"this is a great ASMR video"* anymore. You're optimizing for *"will someone stop scrolling for half a second?"*
 
-### Audio
+But that's hardly unique to ASMR.
 
-- mono
-- stereo
-- binaural
-- close microphone
-- distant
+That's social media.
 
-### Purpose
+Instagram, TikTok, YouTube — once attention becomes the currency, everything slowly gets pushed toward whatever earns the click.
 
-- sleep
-- relaxation
-- background
-- focus
-- tingles
+ASMR just happens to be an interesting example because the original appeal can be almost the exact opposite: quiet, slow, subtle, low stimulation.
 
-A search could then become:
+There's something slightly ironic about turning that into clickbait.
 
-> **wood + scratching + no talking + slow + 30–60 minutes**
+---
+
+## Of course, I checked whether someone had already tried to fix the search part
+
+There are ASMR-specific discovery sites.
+
+[The ASMR Index](https://www.theasmrindex.com/) lets you browse channels and videos using things like triggers, creators, languages and countries.
+
+[AfterASMR](https://afterasmr.com/) helps with creator discovery.
+
+[ASMR Registry](https://asmrregistry.com/) takes a more structured approach to categorizing ASMR content.
+
+They're useful, and clearly I'm not the first person who has noticed the problem.
+
+But I still feel there's a layer missing.
+
+Because I don't necessarily want to search for an ASMR *category*.
+
+Sometimes I want to search for what's literally happening inside the video.
+
+---
+
+## I want ASMR search to work more like this
+
+Give me the ingredients.
+
+**Object**
+
+Wooden comb. Face roller. Hairbrush. Paper. Gloves. Glass bottle.
+
+**Action**
+
+Scratch. Tap. Brush. Roll. Trace. Rub.
+
+**Voice**
+
+Whispering. Soft spoken. Unintelligible. No talking.
+
+**Speed**
+
+Very slow. Slow. Medium. Fast. Aggressive.
+
+**Style**
+
+Personal attention. Roleplay. Random triggers. Repetitive tasks. Unintentional.
+
+**Audio**
+
+Binaural. Close mic. Distant. Stereo.
+
+Then let me combine them.
+
+Instead of:
+
+> ASMR for sleep
+
+I want:
+
+> **wood + scratching + no talking + slow**
 
 Or:
 
 > **wooden comb + face roller + soft spoken**
 
-That is much closer to how regular ASMR listeners actually search.
+Add video length and suddenly we're getting somewhere.
+
+That feels much closer to how I actually think about ASMR.
+
+Not by genre.
+
+By ingredients.
 
 ---
 
-# How to discover your ASMR triggers
+## Finding your triggers is basically trial and error
 
-If you are new to ASMR, start with very different categories rather than watching random videos.
+If you've never watched ASMR before, searching for *the best ASMR video* probably isn't the best place to start.
 
-Try:
+Try completely different things.
 
-1. Whispering or soft speaking
-2. Personal attention
-3. Hair brushing or grooming
-4. Tapping
-5. Scratching
-6. Careful repetitive tasks
-7. No-talking visual ASMR
+Whispering.
 
-When something works, narrow it down.
+Hair brushing.
 
-If tapping works:
+Tapping.
 
-> What material?
+Personal attention.
 
-Wood? Glass? Plastic? Metal?
+Scratching.
 
-If personal attention works:
+Someone carefully working on something.
 
-> What type?
+No-talking videos.
 
-Haircut? Examination? Skincare? Measuring?
+Then pay attention to the bits you actually like.
 
-If brushing works:
+If tapping works, what was being tapped?
 
-> Which object?
+Wood?
 
-Hairbrush? Wooden comb? Makeup brush? Face roller?
+Glass?
 
-Over time, you can build your own **ASMR profile**.
+Plastic?
 
----
+If brushing works, was it the sound, the object or the movement?
 
-# Your triggers may change
+If personal attention works, was it the haircut? The eye examination? The slow hand movements?
 
-ASMR responses are not necessarily permanent.
+Eventually you stop looking for "ASMR" and start looking for increasingly ridiculous combinations of words.
 
-Some people report becoming less sensitive to triggers they have watched repeatedly.
-
-The earliest ASMR research also included people who described novelty and unpredictability as important to their response.
-
-This may help explain why a video that once produced strong tingles can eventually stop having the same effect.
-
-Sometimes finding new ASMR is not about increasing intensity.
-
-It is simply about finding something unfamiliar.
+That's probably when you've figured it out.
 
 ---
 
-# What we know — and what we still don't
+## The annoying part: what works can stop working
 
-ASMR began as an experience people struggled to describe.
+There's another thing regular listeners probably recognize.
 
-The internet gave those people a community and eventually a name for it.
+Sometimes a trigger just loses something.
 
-Scientific research has since shown that ASMR is associated with:
+A video that used to work perfectly suddenly doesn't.
 
-- recognizable sensory responses
-- measurable physiological changes
-- relaxation
-- positive emotional effects
-- strong individual differences
+You've heard the sound too many times.
 
-But many questions remain.
+You know exactly what's coming next.
 
-Researchers still do not completely understand why one particular whisper, movement or sound can produce an intense physical sensation in one person and nothing in another.
+The novelty is gone.
 
-And that may be one of the most important things to understand about ASMR:
+People have reported this in ASMR research too, and it makes sense to me.
 
-**There is no single ASMR experience.**
+Part of the appeal can be unpredictability.
 
-There is the combination that works for you.
+Sometimes you don't need *more intense* ASMR.
 
-The challenge is finding it.
+You just need something you haven't heard fifty times already.
+
+Which brings us straight back to discovery.
 
 ---
 
-## Sources
+## Maybe there isn't an ASMR content problem
 
-- Barratt, E. L. & Davis, N. J. (2015). *Autonomous Sensory Meridian Response (ASMR): a flow-like mental state.*  
+There are already millions of videos.
+
+We probably have enough tapping.
+
+Probably enough whispering too.
+
+What I find more interesting is how incredibly narrow our preferences can become inside this enormous pile of content.
+
+A whisper isn't just a whisper.
+
+Scratching isn't just scratching.
+
+The material matters.
+
+The speed matters.
+
+The movement matters.
+
+The microphone can matter.
+
+The person can matter.
+
+Sometimes even knowing what happens next seems to matter.
+
+And somehow our brains take all of those tiny variables and decide:
+
+> yep, this one.
+
+Or:
+
+> absolutely not.
+
+That's the part of ASMR I find much more interesting than trying to decide which trigger is objectively "best."
+
+There probably isn't one.
+
+There's just the oddly specific combination that works for you.
+
+And somewhere on the internet, that exact video probably already exists.
+
+Now we just need a better way to find it.
+
+---
+
+## A little further down the rabbit hole
+
+If you're curious about the research behind ASMR, these are good starting points:
+
+* Barratt, E. L. & Davis, N. J. (2015), *Autonomous Sensory Meridian Response (ASMR): a flow-like mental state*
   https://pmc.ncbi.nlm.nih.gov/articles/PMC4380153/
 
-- Poerio, G. L. et al. (2018). *More than a feeling: Autonomous sensory meridian response (ASMR) is characterized by reliable changes in affect and physiology.*  
+* Poerio, G. L. et al. (2018), *More than a feeling: Autonomous sensory meridian response (ASMR) is characterized by reliable changes in affect and physiology*
   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196645
 
-- Fredborg, B. K. et al. (2018). Research examining common ASMR triggers and personality characteristics.  
+* Fredborg, B. K. et al. (2018), research into ASMR triggers and individual differences
   https://pmc.ncbi.nlm.nih.gov/articles/PMC6010208/
