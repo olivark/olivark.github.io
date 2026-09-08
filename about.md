@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<img class="about-portrait" src="{{ '/assets/images/kevin-olivar-portrait.png' | relative_url }}" alt="Kévin Olivar outdoors in a snowy park" width="1254" height="1254">
+<img class="about-portrait" src="{{ '/assets/images/kevin-olivar-portrait.jpg' | relative_url }}" alt="Kévin Olivar outdoors in a snowy park" width="1254" height="1254">
 
 Hi, I’m Kévin.
 
