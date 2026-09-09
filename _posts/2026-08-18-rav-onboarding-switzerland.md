@@ -447,7 +447,7 @@ Recruiter contacts can still be useful; the point was simply that:
 
 ### Pensum: quality matters as well as quantity
 
-My agreed search was around **80–100%**, and we discussed whether a 100% vacancy made sense if I ultimately wanted 80%.
+My agreed search was 10 job applications per month for a pensum of around **80–100%** (Teilzeit), and we discussed whether a 100% vacancy made sense if I ultimately wanted 80%.
 
 My reasoning was that applying to a 100% position could get me into the interview process and I could then ask whether 80% was possible.
 
