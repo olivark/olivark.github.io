@@ -1,7 +1,7 @@
 ---
 layout: post
 topic: "Learning"
-title: "What I Learned Using AI Outside Software"
+title: "What I learned using AI outside software"
 description: "A layoff at 47, a casual dinner conversation, and an unexpected experiment in using AI and software-engineering habits to navigate an unfamiliar industry."
 date: 2026-09-07
 tags:

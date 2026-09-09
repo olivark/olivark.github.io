@@ -758,6 +758,12 @@ pre code {
   border-radius: 0.9rem;
   box-shadow: 0 12px 32px rgba(18, 21, 19, 0.12);
 }
+.post-screenshot {
+  width: min(100%, 380px);
+}
+.post-summary-image {
+  width: min(100%, 520px);
+}
 details summary {
   cursor: pointer;
 }
@@ -856,6 +862,12 @@ details summary {
     width: 132px;
     height: 132px;
     margin: 0 0 1.5rem;
+  }
+  .post-screenshot {
+    width: min(100%, 280px);
+  }
+  .post-summary-image {
+    width: min(100%, 340px);
   }
 }
 

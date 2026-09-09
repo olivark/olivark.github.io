@@ -1,7 +1,7 @@
 ---
 layout: post
 topic: "Science & Curiosity"
-title: "ASMR Is Weirdly Specific, and That's the Point"
+title: "ASMR is weirdly specific, and that's the point"
 description: "A small rabbit hole into ASMR, oddly specific triggers, and why finding exactly what you want is harder than it should be."
 date: 2026-08-30
 tags:
