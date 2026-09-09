@@ -48,7 +48,7 @@ One of my first practical prompts was essentially:
 
 AI gave me a list of companies to investigate.
 
-While going through them, one company caught my attention because it focused less on adaptogens in the broad sense and more on functional mushrooms — mushroom species commonly sold as powders, extracts, capsules, or tinctures rather than simply as food. Names like Lion's Mane, Reishi, Cordyceps, and Chaga were suddenly part of a vocabulary I barely knew.
+While going through them, one company caught my attention because it focused less on adaptogens in the broad sense and more on functional mushrooms, mushroom species commonly sold as powders, extracts, capsules, or tinctures rather than simply as food. Names like Lion's Mane, Reishi, Cordyceps, and Chaga were suddenly part of a vocabulary I barely knew.
 
 Then came the next layer: powder versus extract, fruiting body versus mycelium, beta-glucans, extract ratios, capsules, tinctures.
 
@@ -118,7 +118,7 @@ Some minimum order quantities were much larger than I expected.
 
 And suddenly I had a new acronym to care about:
 
-**MOQ — minimum order quantity.**
+**MOQ stands for minimum order quantity.**
 
 At first, MOQ sounded like a purchasing detail.
 
@@ -178,7 +178,7 @@ Then I learned that the more useful question was:
 
 A product specification is not necessarily a batch-specific laboratory result. A supplier declaration is not the same thing as raw test data. "Complies with EU legislation" is not the same thing as showing the measured values behind that statement.
 
-AI helped me turn a vague reaction — *this document looks reassuring* — into a more disciplined review: what does it cover, is it batch-specific, and what remains unanswered?
+AI helped me turn a vague reaction, *this document looks reassuring*, into a more disciplined review: what does it cover, is it batch-specific, and what remains unanswered?
 
 That change in questioning mattered more than the summary itself.
 
@@ -198,7 +198,7 @@ Instead, I found federal information, cantonal responsibilities, EU material, su
 
 Novel Food was one example.
 
-A question that sounded simple — **"Can this mushroom product be sold in Switzerland?"** — quickly became more specific: which mushroom, which part, what kind of extract, how it was produced, how it would be consumed, and what evidence existed around its previous use.
+A question that sounded simple, **"Can this mushroom product be sold in Switzerland?"**, quickly became more specific: which mushroom, which part, what kind of extract, how it was produced, how it would be consumed, and what evidence existed around its previous use.
 
 Again, the useful habit was not getting AI to give me a confident answer.
 
@@ -296,7 +296,7 @@ Experience is useful, but it can also create pressure to always look experienced
 
 ## The software skills were there, but AI changed how I used them
 
-Looking back, my software background helped — but not because food products resemble software.
+Looking back, my software background helped, but not because food products resemble software.
 
 They don't.
 
@@ -348,7 +348,7 @@ AI compressed part of that work.
 
 But more importantly, it gave me a way to think out loud when I was working solo.
 
-It became less like a machine I delegated tasks to and more like something I could reason with — while still checking the sources, asking the people who actually knew, making the decision, and owning the consequences.
+It became less like a machine I delegated tasks to and more like something I could reason with while still checking the sources, asking the people who actually knew, making the decision, and owning the consequences.
 
 That distinction matters to me, especially in software.
 

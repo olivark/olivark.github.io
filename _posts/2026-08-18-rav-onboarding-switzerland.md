@@ -91,8 +91,8 @@ The RAV handles your employment-service registration and job-search obligations.
 **arbeit.swiss** is the official federal information portal. It sits within the federal unemployment-insurance system overseen by **SECO**, but as a jobseeker you normally deal with your RAV and Arbeitslosenkasse rather than SECO directly.
 
 **Official references:**  
-[arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
-[Kanton Zürich — RAV & Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+[arbeit.swiss : Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)  
+[Kanton Zürich : RAV & Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
 
 ---
 
@@ -115,8 +115,8 @@ Do not wait until your first RAV meeting to start documenting applications.
 If you have received notice, begin your job search and keep evidence from the start. This becomes important when the RAV asks for your pre-unemployment **Arbeitsbemühungen**.
 
 **Official references:**  
-[Kanton Zürich — Online RAV Anmeldung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
-[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
+[Kanton Zürich : Online RAV Anmeldung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
+[Kanton Zürich : Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
 
 ---
 
@@ -142,8 +142,8 @@ I chose the **Arbeitslosenkasse Kanton Zürich**.
 Choosing a fund does **not** mean that your claim has been approved. It simply determines which Arbeitslosenkasse will process it.
 
 **Official references:**  
-[Kanton Zürich — Online RAV Anmeldung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
-[Kanton Zürich — Choice of Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+[Kanton Zürich : Online RAV Anmeldung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
+[Kanton Zürich : Choice of Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
 
 ---
 
@@ -162,7 +162,7 @@ Once the account was available, Job-Room became the main place where I could:
 - upload documents requested later.
 
 **Official reference:**  
-[arbeit.swiss — Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)
+[arbeit.swiss : Registration and Job-Room](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)
 
 ---
 
@@ -207,8 +207,8 @@ The exact list can differ by case.
 
 The onboarding material I received presented two versions:
 
-- **SES – Ausführliche Version** — detailed version for people with good German skills;
-- **SES Light – Kurze Version** — shorter version for people with limited German skills.
+- **SES – Ausführliche Version** : detailed version for people with good German skills;
+- **SES Light – Kurze Version** : shorter version for people with limited German skills.
 
 I completed **SES Light**.
 
@@ -236,10 +236,10 @@ Some RAV communication may arrive through **IncaMail**, Swiss Post's secure emai
 My adviser told me that although RAV employees use the secure system for certain communications, I could write to her from my normal personal email account. I treat that as guidance for my case rather than a universal rule.
 
 **Official references:**  
-[Kanton Zürich — Pflichtinformation](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)  
-[Kanton Zürich — SES](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)  
-[Kanton Zürich — SES Light](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses-light.html)  
-[Swiss Post — IncaMail](https://www.post.ch/geschaeftsloesungen/e-mail-verschluesselung/support/onlinehilfe)
+[Kanton Zürich : Pflichtinformation](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)  
+[Kanton Zürich : SES](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)  
+[Kanton Zürich : SES Light](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses-light.html)  
+[Swiss Post : IncaMail](https://www.post.ch/geschaeftsloesungen/e-mail-verschluesselung/support/onlinehilfe)
 
 ---
 
@@ -276,8 +276,8 @@ Zürich states that people who do not speak German well should attend RAV appoin
 From friends who had been through RAV appointments, I understood that this can be someone you bring with you to help translate; I was not told this by my adviser, so I would confirm the arrangement with your own RAV if you need it.
 
 **Official references:**  
-[Kanton Zürich — Online RAV Anmeldung / first meeting](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
-[Kanton Zürich — Personal RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/anmelden-beim-rav.html)
+[Kanton Zürich : Online RAV Anmeldung / first meeting](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)  
+[Kanton Zürich : Personal RAV registration](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/anmelden-beim-rav.html)
 
 ---
 
@@ -327,8 +327,8 @@ Those are two different document requests, so I followed each request separately
 </details>
 
 **Official references:**  
-[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
-[Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)  
+[arbeit.swiss : eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[Kanton Zürich : Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)  
 [Current Arbeitgeberbescheinigung form](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/05/30/c660bdfa-eabf-4898-a9c3-a8cb9fa6b9fa.pdf)
 
 ---
@@ -395,8 +395,8 @@ The key point is that the **date you receive notice is not necessarily the legal
 Also, do not interpret "three months of proof" as meaning you only need to search for three months. Zürich's guidance says job-search efforts should already begin once notice has been given or received.
 
 **Official references:**  
-[Kanton Zürich — Persönliche Arbeitsbemühungen](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)  
-[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
+[Kanton Zürich : Persönliche Arbeitsbemühungen](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)  
+[Kanton Zürich : Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
 
 ---
 
@@ -421,13 +421,13 @@ The Arbeitslosenkasse form is:
 
 ![Job-Room: Angaben der versicherten Person navigation](/assets/images/rav-avp-nav.png){: .post-screenshot}
 
-It reports what happened during the month — for example work, income, absence or incapacity — and is used to claim the corresponding unemployment compensation.
+It reports what happened during the month, for example work, income, absence, or incapacity, and is used to claim the corresponding unemployment compensation.
 
 In my Job-Room account, it could be prepared earlier but only transmitted **from the 22nd of the relevant month**. I treat that as what my portal displayed, not as a universal date for every case.
 
 **Official references:**  
-[arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
-[Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
+[arbeit.swiss : eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)  
+[Kanton Zürich : Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
 
 ---
 
@@ -466,8 +466,8 @@ A course being discussed is not necessarily the same thing as a formal RAV assig
 If the RAV formally assigns you to a course, assessment, meeting or suitable job, follow the instruction or contact the RAV promptly if you have a legitimate problem attending.
 
 **Official references:**  
-[Kanton Zürich — Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)  
-[arbeit.swiss — Labour-market measures](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)
+[Kanton Zürich : Counselling and job-search obligations](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)  
+[arbeit.swiss : Labour-market measures](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)
 
 ---
 
@@ -475,7 +475,7 @@ If the RAV formally assigns you to a course, assessment, meeting or suitable job
 
 The system has deadlines and obligations, so do not ignore a problem and hope it disappears.
 
-Possible consequences can include **Einstelltage** — days during which unemployment benefits are suspended.
+Possible consequences can include **Einstelltage**, days during which unemployment benefits are suspended.
 
 Examples include insufficient job-search efforts, missing RAV requirements, refusing suitable work or failing to follow assigned measures without an acceptable reason.
 
@@ -492,7 +492,7 @@ If the working relationship with your adviser genuinely breaks down, the federal
 3. if that fails, raise the possibility of changing adviser with the adviser or RAV management.
 
 **Official reference:**  
-[arbeit.swiss — FAQ on unemployment compensation](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
+[arbeit.swiss : FAQ on unemployment compensation](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
 
 ---
 
@@ -502,7 +502,7 @@ This is the high-level version of the process I went through in Zürich.
 
 It intentionally groups the smaller administrative tasks together. The goal is to show the **flow**, not every click, upload or email.
 
-![RAV onboarding in Switzerland — high-level visual summary](/assets/images/rav-onboarding-summary.png){: .post-summary-image}
+![RAV onboarding in Switzerland : high-level visual summary](/assets/images/rav-onboarding-summary.png){: .post-summary-image}
 
 ---
 
@@ -551,35 +551,35 @@ The links below were checked when this post was reviewed on **18 August 2026**.
 
 ### RAV Anmeldung and Job-Room
 
-- [Kanton Zürich — Anmeldung RAV & Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
-- [Kanton Zürich — Online beim RAV anmelden](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)
-- [arbeit.swiss — Anmeldung und Registrierung](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)
+- [Kanton Zürich : Anmeldung RAV & Arbeitslosenkasse](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse.html)
+- [Kanton Zürich : Online beim RAV anmelden](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/online-anmelden-beim-rav.html)
+- [arbeit.swiss : Anmeldung und Registrierung](https://www.arbeit.swiss/de/stellensuchende/anmeldung-und-registrierung)
 - [Job-Room](https://www.job-room.ch/)
 
 ### Pflichtinformation and SES
 
-- [Kanton Zürich — Pflichtinformation](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)
-- [Kanton Zürich — SES](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)
-- [Kanton Zürich — SES Light](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses-light.html)
+- [Kanton Zürich : Pflichtinformation](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/anmeldung-rav-arbeitslosenkasse/pflichtinformationen-fuer-stellensuchende.html)
+- [Kanton Zürich : SES](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses.html)
+- [Kanton Zürich : SES Light](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/selbsteinschaetzung-ses-light.html)
 
 ### Arbeitslosenkasse
 
-- [Kanton Zürich — Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
-- [arbeit.swiss — eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
-- [arbeit.swiss — FAQ](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
+- [Kanton Zürich : Arbeitslosenentschädigung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/arbeitslosenentschaedigung.html)
+- [arbeit.swiss : eServices and forms](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
+- [arbeit.swiss : FAQ](https://www.arbeit.swiss/de/stellensuchende/faq-zur-arbeitslosenentschaedigung)
 
 ### Official forms
 
 - [Forms index](https://www.arbeit.swiss/de/stellensuchende/eservices-und-formulare-fuer-die-arbeitslosenentschaedigung)
-- [Antrag auf Arbeitslosenentschädigung — PDF (10000d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/ea81c4a0-5685-4d2d-a30e-a01d1433ee64.pdf)
-- [Arbeitgeberbescheinigung — PDF (10006d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/05/30/c660bdfa-eabf-4898-a9c3-a8cb9fa6b9fa.pdf)
-- [Nachweis der persönlichen Arbeitsbemühungen — PDF](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/f7d24607-31a7-49d1-9720-33e95a66b425.pdf)
+- [Antrag auf Arbeitslosenentschädigung : PDF (10000d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/ea81c4a0-5685-4d2d-a30e-a01d1433ee64.pdf)
+- [Arbeitgeberbescheinigung : PDF (10006d)](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/05/30/c660bdfa-eabf-4898-a9c3-a8cb9fa6b9fa.pdf)
+- [Nachweis der persönlichen Arbeitsbemühungen : PDF](https://www.arbeit.swiss/api/media/fileservice/sdweb-docs-prod-arbeitswiss-files/files/2026/04/16/f7d24607-31a7-49d1-9720-33e95a66b425.pdf)
 
 ### Job-search obligations and labour-market measures
 
-- [Kanton Zürich — Beratung & Vermittlung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
-- [Kanton Zürich — Persönliche Arbeitsbemühungen](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)
-- [arbeit.swiss — Arbeitsmarktliche Massnahmen](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)
+- [Kanton Zürich : Beratung & Vermittlung](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung.html)
+- [Kanton Zürich : Persönliche Arbeitsbemühungen](https://www.zh.ch/de/wirtschaft-arbeit/stellensuche-arbeitslosigkeit/beratung-vermittlung/persoenliche-arbeitsbemuehungen-machen.html)
+- [arbeit.swiss : Arbeitsmarktliche Massnahmen](https://www.arbeit.swiss/de/stellensuchende/arbeitsmarktliche-massnahmen)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 topic: "Science & Curiosity"
-title: "ASMR Is Weirdly Specific — And That's the Point"
+title: "ASMR Is Weirdly Specific, and That's the Point"
 description: "A small rabbit hole into ASMR, oddly specific triggers, and why finding exactly what you want is harder than it should be."
 date: 2026-08-30
 tags:
@@ -309,7 +309,7 @@ But that's hardly unique to ASMR.
 
 That's social media.
 
-Instagram, TikTok, YouTube — once attention becomes the currency, everything slowly gets pushed toward whatever earns the click.
+Instagram, TikTok, YouTube. Once attention becomes the currency, everything slowly gets pushed toward whatever earns the click.
 
 ASMR just happens to be an interesting example because the original appeal can be almost the exact opposite: quiet, slow, subtle, low stimulation.
 

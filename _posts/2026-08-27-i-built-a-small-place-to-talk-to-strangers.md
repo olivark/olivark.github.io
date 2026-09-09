@@ -11,7 +11,7 @@ I have made a website where you can press one button and be paired with a strang
 
 Yes, I am aware this sounds like the opening sentence of a cautionary tale.
 
-The project is called **Güggli**: a small, anonymous place for a one-to-one video or text conversation. You pick a few things you might like to talk about—music, travel, tech, whatever is on your mind—and it tries to find someone in the same mood. Or you choose random and hand the steering wheel to fate, which has never made a questionable decision online.
+The project is called **Güggli**: a small, anonymous place for a one-to-one video or text conversation. You pick a few things you might like to talk about, such as music, travel, tech, or whatever is on your mind, and it tries to find someone in the same mood. Or you choose random and hand the steering wheel to fate, which has never made a questionable decision online.
 
 The premise is deliberately simple: no profile to curate, no follower count to accidentally acquire, no “personal brand” to moisturise before showing up. Just a conversation.
 
@@ -27,7 +27,7 @@ That is the entire pitch. It fits on a sticky note. The implementation, naturall
 
 Güggli is a mobile-first web app built with Next.js, TypeScript, Supabase and the browser's WebRTC APIs.
 
-The app creates a lightweight anonymous browser session, places it in a matching queue and pairs it with someone who chose the same mode—video or text. Shared interests are preferred, but the app can fall back to a random match because an empty queue is not a personality trait.
+The app creates a lightweight anonymous browser session, places it in a matching queue and pairs it with someone who chose the same mode, video or text. Shared interests are preferred, but the app can fall back to a random match because an empty queue is not a personality trait.
 
 For video conversations, the actual audio and video travel directly between the two browsers with WebRTC. Supabase is the backstage person: it helps with matching and lets the browsers exchange the small bits of information they need to connect. It does not carry or store the call itself.
 

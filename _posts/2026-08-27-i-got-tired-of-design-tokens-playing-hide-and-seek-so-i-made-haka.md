@@ -9,9 +9,9 @@ categories: [figma, design-systems, tiny-tools]
 
 Design tokens are supposed to be the shared language between design and development. In practice, they can feel more like a long-distance relationship: everybody says they are communicating, but someone is definitely looking at an old JSON file.
 
-So I made [HaKa — Figma Variables Export & Import](https://www.figma.com/community/plugin/1640753412567944113/haka-figma-variables-export-import).
+So I made [HaKa: Figma Variables Export & Import](https://www.figma.com/community/plugin/1640753412567944113/haka-figma-variables-export-import).
 
-HaKa is a small Figma plugin for moving Variables in and out of Figma without turning every token update into a dramatic three-act play. You can import token files, review what would change before anything happens, export your Variables as JSON, and—if your team is ready for the fancy bit—trigger its own GitHub Actions workflow or HTTPS endpoint.
+HaKa is a small Figma plugin for moving Variables in and out of Figma without turning every token update into a dramatic three-act play. You can import token files, review what would change before anything happens, export your Variables as JSON, and, if your team is ready for the fancy bit, trigger its own GitHub Actions workflow or HTTPS endpoint.
 
 The name is short for **Hand-off / Katalyst**. Which is either a neat description of the tool or an admission that I have spent a suspicious amount of time naming things. Both can be true.
 
