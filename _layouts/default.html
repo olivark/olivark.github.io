@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/assets/favicon.svg' | relative_url }}">
-    <meta name="theme-color" content="#f7f7f5">
+    <meta name="theme-color" content="#f6f3eb">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -16,12 +16,11 @@
   <body class="{% if page.hero %}has-hero{% endif %}">
     {% include site-header.html %}
     {% if page.hero %}
-    <div class="hero">
-      <div class="hero-content">
-        <p class="hero-eyebrow">{{ page.hero_eyebrow | default: site.title }}</p>
-        <h1 class="hero-heading">{{ page.hero_title | default: site.description }}</h1>
-      </div>
-    </div>
+    {% include home-hero.html %}
+    {% include script.html file="hero.js" %}
+    {% endif %}
+    {% if page.contact_form %}
+    {% include script.html file="contact.js" %}
     {% endif %}
 
     <main class="wrap content">

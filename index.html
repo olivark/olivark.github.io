@@ -8,16 +8,18 @@ hero_title: "Systems, side projects, and the occasional deep rabbit hole."
 
 <section class="home-posts" aria-labelledby="posts-heading">
   <header class="section-heading">
-    <p class="section-kicker">Latest writing</p>
+    <div><p class="section-kicker">Latest writing</p>
     <h2 id="posts-heading">Notes from the workbench.</h2>
+    </div>
+    <a class="browse-articles" href="{{ '/articles/' | relative_url }}">Browse all articles ↗</a>
   </header>
 
-<p class="browse-articles"><a href="{{ '/articles/' | relative_url }}">Search and browse all articles →</a></p>
 <div id="article-list" data-page="{{ paginator.page }}">
 <div class="post-grid">
   {% for post in paginator.posts %}
   <article class="post-card">
     <a class="post-card-link" href="{{ post.url | relative_url }}">
+      <div class="card-art card-art-{{ forloop.index | modulo: 3 }}" aria-hidden="true"><span class="card-art-circle"></span><span class="card-art-lines"></span><span class="card-art-number">{% if forloop.first and paginator.page == 1 %}LATEST ENTRY{% else %}FIELD NOTES{% endif %} / {{ post.date | date: '%m.%d' }}</span></div>
       <div class="post-card-meta">
         <span>{{ post.categories | first | default: "Notes" }}</span>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>

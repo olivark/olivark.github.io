@@ -61,18 +61,18 @@ for (const width of [1280, 375]) {
     const originalDocument = await page.evaluateHandle(() => document);
     const scrollY = await page.evaluate(() => window.scrollY);
     await page.getByRole('link', { name: 'Page 2', exact: true }).click();
-    await expect(page.locator('[aria-current="page"]')).toHaveText('2');
+    await expect(page.locator('.pagination [aria-current="page"]')).toHaveText('2');
     expect(await originalDocument.evaluate((doc) => doc === document)).toBe(true);
     expect(Math.abs((await page.evaluate(() => window.scrollY)) - scrollY)).toBeLessThan(3);
     const lastLink = page.locator('.pagination a[aria-label^="Page "]').last();
     const lastPage = (await lastLink.getAttribute('aria-label')).replace('Page ', '');
     await lastLink.click();
-    await expect(page.locator('[aria-current="page"]')).toHaveText(lastPage);
+    await expect(page.locator('.pagination [aria-current="page"]')).toHaveText(lastPage);
     const lastCount = await page.locator('.post-card').count();
     expect(lastCount).toBeGreaterThan(0);
     expect(lastCount).toBeLessThanOrEqual(2);
     await page.goBack();
-    await expect(page.locator('[aria-current="page"]')).toHaveText('2');
+    await expect(page.locator('.pagination [aria-current="page"]')).toHaveText('2');
     expect(Math.abs((await page.evaluate(() => window.scrollY)) - scrollY)).toBeLessThan(3);
   });
 }

@@ -1,11 +1,11 @@
 <header class="site-header">
       <div class="wrap">
-        <a class="site-title" href="{{ '/' | relative_url }}"><span class="site-mark">K</span><span>Kévin Olivar</span></a>
+        <a class="site-title" href="{{ '/' | relative_url }}"><img class="site-mark" src="{{ '/assets/favicon.svg' | relative_url }}" width="28" height="28" alt=""><span>Kévin Olivar</span></a>
         <nav class="site-nav">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/articles/' | relative_url }}">Articles</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
-          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          <a href="{{ '/' | relative_url }}"{% if page.hero %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ '/articles/' | relative_url }}"{% if page.url == '/articles/' %} aria-current="page"{% endif %}>Articles</a>
+          <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
         </nav>
       </div>
     </header>
