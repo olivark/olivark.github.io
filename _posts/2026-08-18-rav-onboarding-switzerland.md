@@ -382,7 +382,7 @@ My timeline was:
 - legal end of employment: **31 July**;
 - unemployment: **August**.
 
-My RAV asked me to provide the three months immediately before unemployment, so for me that was:
+My RAV adviser asked me to provide the three months immediately before unemployment, so for me that was:
 
 **May + June + July**
 
