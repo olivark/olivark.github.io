@@ -13,7 +13,7 @@ Yes, I am aware this sounds like the opening sentence of a cautionary tale.
 
 The project is called **Güggli**: a small, anonymous place for a one-to-one video or text conversation. You pick a few things you might like to talk about, such as music, travel, tech, or whatever is on your mind, and it tries to find someone in the same mood. Or you choose random and hand the steering wheel to fate, which has never made a questionable decision online.
 
-The premise is deliberately simple: no profile to curate, no follower count to accidentally acquire, no “personal brand” to moisturise before showing up. Just a conversation.
+The premise is deliberately simple: no profile to curate, no follower count to accidentally acquire, no "personal brand” to moisturise before showing up. Just a conversation.
 
 ## Why make this?
 
@@ -37,20 +37,20 @@ There is also a very unglamorous but important set of buttons: next, leave and r
 
 WebRTC is one of those technologies that feels magical right up until two perfectly reasonable networks decide they have never heard of each other.
 
-It turns out a random video chat needs more than a big “Find someone” button. It needs a matchmaking queue that does not pair people twice, signaling so browsers can negotiate a connection, ICE servers for finding a route through the internet, cleanup when someone leaves, and a plan for the person who presses “Next” with the speed and confidence of someone skipping YouTube ads.
+It turns out a random video chat needs more than a big "Find someone” button. It needs a matchmaking queue that does not pair people twice, signaling so browsers can negotiate a connection, ICE servers for finding a route through the internet, cleanup when someone leaves, and a plan for the person who presses "Next” with the speed and confidence of someone skipping YouTube ads.
 
 The product decisions were also more interesting than I expected:
 
 * **No accounts.** A conversation should not require creating another tiny digital résumé.
 * **Interests are optional.** They are a nudge toward a better first sentence, not a personality exam.
 * **Text is a real mode.** Sometimes talking to a stranger is easier when your face is not part of the opening ceremony.
-* **Safety belongs in the first version.** A report flow, the ability to leave, and blocking unsafe pairs are not “later” work when the product is about meeting people you do not know.
+* **Safety belongs in the first version.** A report flow, the ability to leave, and blocking unsafe pairs are not "later” work when the product is about meeting people you do not know.
 
 The resulting app is intentionally modest. It does not promise that every conversation will be profound, life-changing, or even particularly coherent. It does promise not to make you upload a headshot before finding out.
 
 ## About the name
 
-“Güggli” has a suitably Swiss-German feel: cheerful, a little odd, and much better than naming the project something like `peer-connection-prototype-final-final-2`.
+"Güggli” has a suitably Swiss-German feel: cheerful, a little odd, and much better than naming the project something like `peer-connection-prototype-final-final-2`.
 
 The current deployment is at [guggeli.vercel.app](https://guggeli.vercel.app/), which is admittedly the URL equivalent of turning up to a wedding in a lanyard. The app is Güggli; the domain is a temporary administrative compromise. A proper home for the little rooster is on the list.
 
