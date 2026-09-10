@@ -34,7 +34,7 @@ That was exactly what made it interesting.
 
 During a casual dinner with a friend, adaptogens came up in conversation.
 
-He half-jokingly suggested there might be a business idea around them.
+He (Silf) half-jokingly suggested there might be a business idea around them.
 
 I barely knew what an adaptogen was.
 
