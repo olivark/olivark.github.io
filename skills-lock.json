@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "contentsquare-web-tag-install": {
+      "source": "contentsquare/agents",
+      "sourceType": "github",
+      "skillPath": "skills/contentsquare-web-tag-install/SKILL.md",
+      "computedHash": "23615b989b6b967a24bd815bc6e043ec9083b4183109a744a035d7d3da3e8e58"
+    }
+  }
+}
